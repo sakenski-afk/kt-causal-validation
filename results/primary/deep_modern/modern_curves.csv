@@ -1,0 +1,190 @@
+model,group,lag_bin,effect,n
+CAUSAL,all,<1h,0.15869,1114.00000
+CAUSAL,all,1-6h,0.09715,1488.00000
+CAUSAL,all,6-24h,0.08550,3514.00000
+CAUSAL,all,1-3d,0.05861,8162.00000
+CAUSAL,all,3-7d,0.04144,12897.00000
+CAUSAL,all,7-14d,0.03376,18202.00000
+CAUSAL,all,14-30d,0.02513,31602.00000
+CAUSAL,all,30-90d,0.02072,68463.00000
+CAUSAL,all,>90d,0.01354,136526.00000
+M5 GBM (all features),all,<1h,0.09792,1114.00000
+M5 GBM (all features),all,1-6h,0.07904,1488.00000
+M5 GBM (all features),all,6-24h,0.07128,3514.00000
+M5 GBM (all features),all,1-3d,0.05477,8162.00000
+M5 GBM (all features),all,3-7d,0.04133,12897.00000
+M5 GBM (all features),all,7-14d,0.02849,18202.00000
+M5 GBM (all features),all,14-30d,0.01911,31602.00000
+M5 GBM (all features),all,30-90d,0.01189,68463.00000
+M5 GBM (all features),all,>90d,0.00966,136526.00000
+M5a GBM without memory features,all,<1h,0.00000,1114.00000
+M5a GBM without memory features,all,1-6h,0.00000,1488.00000
+M5a GBM without memory features,all,6-24h,0.00000,3514.00000
+M5a GBM without memory features,all,1-3d,0.00000,8162.00000
+M5a GBM without memory features,all,3-7d,0.00000,12897.00000
+M5a GBM without memory features,all,7-14d,0.00000,18202.00000
+M5a GBM without memory features,all,14-30d,0.00000,31602.00000
+M5a GBM without memory features,all,30-90d,0.00000,68463.00000
+M5a GBM without memory features,all,>90d,0.00000,136526.00000
+M6b DAS3H + item windows,all,<1h,0.13045,1114.00000
+M6b DAS3H + item windows,all,1-6h,0.09312,1488.00000
+M6b DAS3H + item windows,all,6-24h,0.09132,3514.00000
+M6b DAS3H + item windows,all,1-3d,0.05793,8162.00000
+M6b DAS3H + item windows,all,3-7d,0.05706,12897.00000
+M6b DAS3H + item windows,all,7-14d,0.03590,18202.00000
+M6b DAS3H + item windows,all,14-30d,0.03880,31602.00000
+M6b DAS3H + item windows,all,30-90d,0.02776,68463.00000
+M6b DAS3H + item windows,all,>90d,0.01621,136526.00000
+M7 DKT-time,all,<1h,0.09239,457.00000
+M7 DKT-time,all,1-6h,0.07984,617.00000
+M7 DKT-time,all,6-24h,0.07660,1515.00000
+M7 DKT-time,all,1-3d,0.06619,3512.00000
+M7 DKT-time,all,3-7d,0.05849,5474.00000
+M7 DKT-time,all,7-14d,0.05161,7552.00000
+M7 DKT-time,all,14-30d,0.04675,13402.00000
+M7 DKT-time,all,30-90d,0.03796,29282.00000
+M7 DKT-time,all,>90d,0.02450,58189.00000
+M7 AKT,all,<1h,-0.00002,457.00000
+M7 AKT,all,1-6h,-0.00004,617.00000
+M7 AKT,all,6-24h,0.00004,1515.00000
+M7 AKT,all,1-3d,0.00001,3512.00000
+M7 AKT,all,3-7d,0.00000,5474.00000
+M7 AKT,all,7-14d,0.00000,7552.00000
+M7 AKT,all,14-30d,0.00000,13402.00000
+M7 AKT,all,30-90d,0.00000,29282.00000
+M7 AKT,all,>90d,0.00000,58189.00000
+M7 HawkesKT,all,<1h,-0.00006,457.00000
+M7 HawkesKT,all,1-6h,0.00000,617.00000
+M7 HawkesKT,all,6-24h,0.00009,1515.00000
+M7 HawkesKT,all,1-3d,-0.00000,3512.00000
+M7 HawkesKT,all,3-7d,-0.00000,5474.00000
+M7 HawkesKT,all,7-14d,-0.00000,7552.00000
+M7 HawkesKT,all,14-30d,0.00000,13402.00000
+M7 HawkesKT,all,30-90d,-0.00000,29282.00000
+M7 HawkesKT,all,>90d,0.00000,58189.00000
+CAUSAL,after correct,<1h,0.13592,809.00000
+CAUSAL,after correct,1-6h,0.11484,1079.00000
+CAUSAL,after correct,6-24h,0.10700,2618.00000
+CAUSAL,after correct,1-3d,0.08952,6262.00000
+CAUSAL,after correct,3-7d,0.08333,9982.00000
+CAUSAL,after correct,7-14d,0.07563,14319.00000
+CAUSAL,after correct,14-30d,0.06901,25415.00000
+CAUSAL,after correct,30-90d,0.06934,54794.00000
+CAUSAL,after correct,>90d,0.06621,105061.00000
+M5 GBM (all features),after correct,<1h,0.10328,809.00000
+M5 GBM (all features),after correct,1-6h,0.08869,1079.00000
+M5 GBM (all features),after correct,6-24h,0.08457,2618.00000
+M5 GBM (all features),after correct,1-3d,0.07263,6262.00000
+M5 GBM (all features),after correct,3-7d,0.06260,9982.00000
+M5 GBM (all features),after correct,7-14d,0.05297,14319.00000
+M5 GBM (all features),after correct,14-30d,0.04581,25415.00000
+M5 GBM (all features),after correct,30-90d,0.04279,54794.00000
+M5 GBM (all features),after correct,>90d,0.04852,105061.00000
+M5a GBM without memory features,after correct,<1h,0.00000,809.00000
+M5a GBM without memory features,after correct,1-6h,0.00000,1079.00000
+M5a GBM without memory features,after correct,6-24h,0.00000,2618.00000
+M5a GBM without memory features,after correct,1-3d,0.00000,6262.00000
+M5a GBM without memory features,after correct,3-7d,0.00000,9982.00000
+M5a GBM without memory features,after correct,7-14d,0.00000,14319.00000
+M5a GBM without memory features,after correct,14-30d,0.00000,25415.00000
+M5a GBM without memory features,after correct,30-90d,0.00000,54794.00000
+M5a GBM without memory features,after correct,>90d,0.00000,105061.00000
+M6b DAS3H + item windows,after correct,<1h,0.11386,809.00000
+M6b DAS3H + item windows,after correct,1-6h,0.10901,1079.00000
+M6b DAS3H + item windows,after correct,6-24h,0.10550,2618.00000
+M6b DAS3H + item windows,after correct,1-3d,0.09143,6262.00000
+M6b DAS3H + item windows,after correct,3-7d,0.08899,9982.00000
+M6b DAS3H + item windows,after correct,7-14d,0.07235,14319.00000
+M6b DAS3H + item windows,after correct,14-30d,0.07258,25415.00000
+M6b DAS3H + item windows,after correct,30-90d,0.06302,54794.00000
+M6b DAS3H + item windows,after correct,>90d,0.05929,105061.00000
+M7 DKT-time,after correct,<1h,0.08155,333.00000
+M7 DKT-time,after correct,1-6h,0.06685,449.00000
+M7 DKT-time,after correct,6-24h,0.06519,1148.00000
+M7 DKT-time,after correct,1-3d,0.05590,2710.00000
+M7 DKT-time,after correct,3-7d,0.04865,4265.00000
+M7 DKT-time,after correct,7-14d,0.04434,5974.00000
+M7 DKT-time,after correct,14-30d,0.04052,10756.00000
+M7 DKT-time,after correct,30-90d,0.03359,23523.00000
+M7 DKT-time,after correct,>90d,0.02104,44872.00000
+M7 AKT,after correct,<1h,0.00017,333.00000
+M7 AKT,after correct,1-6h,0.00004,449.00000
+M7 AKT,after correct,6-24h,0.00003,1148.00000
+M7 AKT,after correct,1-3d,0.00001,2710.00000
+M7 AKT,after correct,3-7d,0.00000,4265.00000
+M7 AKT,after correct,7-14d,0.00000,5974.00000
+M7 AKT,after correct,14-30d,0.00000,10756.00000
+M7 AKT,after correct,30-90d,0.00000,23523.00000
+M7 AKT,after correct,>90d,0.00000,44872.00000
+M7 HawkesKT,after correct,<1h,-0.00033,333.00000
+M7 HawkesKT,after correct,1-6h,-0.00006,449.00000
+M7 HawkesKT,after correct,6-24h,0.00001,1148.00000
+M7 HawkesKT,after correct,1-3d,-0.00001,2710.00000
+M7 HawkesKT,after correct,3-7d,-0.00000,4265.00000
+M7 HawkesKT,after correct,7-14d,-0.00000,5974.00000
+M7 HawkesKT,after correct,14-30d,0.00000,10756.00000
+M7 HawkesKT,after correct,30-90d,-0.00000,23523.00000
+M7 HawkesKT,after correct,>90d,0.00000,44872.00000
+CAUSAL,after error,<1h,0.24128,305.00000
+CAUSAL,after error,1-6h,0.08350,409.00000
+CAUSAL,after error,6-24h,0.06019,896.00000
+CAUSAL,after error,1-3d,0.00938,1900.00000
+CAUSAL,after error,3-7d,-0.04755,2915.00000
+CAUSAL,after error,7-14d,-0.05583,3883.00000
+CAUSAL,after error,14-30d,-0.08117,6187.00000
+CAUSAL,after error,30-90d,-0.10014,13669.00000
+CAUSAL,after error,>90d,-0.11428,31465.00000
+M5 GBM (all features),after error,<1h,0.08372,305.00000
+M5 GBM (all features),after error,1-6h,0.05356,409.00000
+M5 GBM (all features),after error,6-24h,0.03244,896.00000
+M5 GBM (all features),after error,1-3d,-0.00409,1900.00000
+M5 GBM (all features),after error,3-7d,-0.03150,2915.00000
+M5 GBM (all features),after error,7-14d,-0.06176,3883.00000
+M5 GBM (all features),after error,14-30d,-0.09058,6187.00000
+M5 GBM (all features),after error,30-90d,-0.11196,13669.00000
+M5 GBM (all features),after error,>90d,-0.12009,31465.00000
+M5a GBM without memory features,after error,<1h,0.00000,305.00000
+M5a GBM without memory features,after error,1-6h,0.00000,409.00000
+M5a GBM without memory features,after error,6-24h,0.00000,896.00000
+M5a GBM without memory features,after error,1-3d,0.00000,1900.00000
+M5a GBM without memory features,after error,3-7d,0.00000,2915.00000
+M5a GBM without memory features,after error,7-14d,0.00000,3883.00000
+M5a GBM without memory features,after error,14-30d,0.00000,6187.00000
+M5a GBM without memory features,after error,30-90d,0.00000,13669.00000
+M5a GBM without memory features,after error,>90d,0.00000,31465.00000
+M6b DAS3H + item windows,after error,<1h,0.17447,305.00000
+M6b DAS3H + item windows,after error,1-6h,0.05119,409.00000
+M6b DAS3H + item windows,after error,6-24h,0.04989,896.00000
+M6b DAS3H + item windows,after error,1-3d,-0.05247,1900.00000
+M6b DAS3H + item windows,after error,3-7d,-0.05229,2915.00000
+M6b DAS3H + item windows,after error,7-14d,-0.09853,3883.00000
+M6b DAS3H + item windows,after error,14-30d,-0.09995,6187.00000
+M6b DAS3H + item windows,after error,30-90d,-0.11361,13669.00000
+M6b DAS3H + item windows,after error,>90d,-0.12765,31465.00000
+M7 DKT-time,after error,<1h,0.12151,124.00000
+M7 DKT-time,after error,1-6h,0.11456,168.00000
+M7 DKT-time,after error,6-24h,0.11229,367.00000
+M7 DKT-time,after error,1-3d,0.10096,802.00000
+M7 DKT-time,after error,3-7d,0.09317,1209.00000
+M7 DKT-time,after error,7-14d,0.07914,1578.00000
+M7 DKT-time,after error,14-30d,0.07205,2646.00000
+M7 DKT-time,after error,30-90d,0.05582,5759.00000
+M7 DKT-time,after error,>90d,0.03616,13317.00000
+M7 AKT,after error,<1h,-0.00052,124.00000
+M7 AKT,after error,1-6h,-0.00023,168.00000
+M7 AKT,after error,6-24h,0.00007,367.00000
+M7 AKT,after error,1-3d,0.00001,802.00000
+M7 AKT,after error,3-7d,-0.00000,1209.00000
+M7 AKT,after error,7-14d,0.00000,1578.00000
+M7 AKT,after error,14-30d,0.00000,2646.00000
+M7 AKT,after error,30-90d,0.00000,5759.00000
+M7 AKT,after error,>90d,-0.00000,13317.00000
+M7 HawkesKT,after error,<1h,0.00065,124.00000
+M7 HawkesKT,after error,1-6h,0.00019,168.00000
+M7 HawkesKT,after error,6-24h,0.00032,367.00000
+M7 HawkesKT,after error,1-3d,0.00002,802.00000
+M7 HawkesKT,after error,3-7d,-0.00000,1209.00000
+M7 HawkesKT,after error,7-14d,0.00000,1578.00000
+M7 HawkesKT,after error,14-30d,0.00000,2646.00000
+M7 HawkesKT,after error,30-90d,0.00000,5759.00000
+M7 HawkesKT,after error,>90d,0.00000,13317.00000

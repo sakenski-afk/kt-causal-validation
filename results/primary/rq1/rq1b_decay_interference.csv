@@ -1,0 +1,100 @@
+spec,estimator,term,coef,se,ci_low,ci_high
+P1 time only,E1 learner-game FE + item FE,seen,0.09962,0.00791,0.08413,0.11512
+P1 time only,E1 learner-game FE + item FE,seen x log1p(hours),-0.01099,0.00100,-0.01295,-0.00904
+P1 time only,E1 learner-game FE + item FE,ctrl g<1h,-0.00159,0.00270,-0.00689,0.00370
+P1 time only,E1 learner-game FE + item FE,ctrl g1-24h,-0.00059,0.00101,-0.00258,0.00139
+P1 time only,E1 learner-game FE + item FE,ctrl g1-7d,-0.00051,0.00079,-0.00205,0.00104
+P1 time only,E1 learner-game FE + item FE,ctrl g_never,0.00059,0.00333,-0.00594,0.00712
+P1 time only,E3 learner-game FE + item difficulty,seen,0.09980,0.00803,0.08406,0.11553
+P1 time only,E3 learner-game FE + item difficulty,seen x log1p(hours),-0.01102,0.00101,-0.01300,-0.00903
+P1 time only,E3 learner-game FE + item difficulty,ctrl g<1h,-0.00105,0.00270,-0.00634,0.00424
+P1 time only,E3 learner-game FE + item difficulty,ctrl g1-24h,0.00012,0.00101,-0.00187,0.00211
+P1 time only,E3 learner-game FE + item difficulty,ctrl g1-7d,-0.00009,0.00079,-0.00164,0.00146
+P1 time only,E3 learner-game FE + item difficulty,ctrl g_never,-0.00013,0.00320,-0.00641,0.00614
+P1 time only,E3 learner-game FE + item difficulty,item_p_loo,0.82646,0.02013,0.78701,0.86591
+P2 games only,E1 learner-game FE + item FE,seen,0.10554,0.00729,0.09125,0.11983
+P2 games only,E1 learner-game FE + item FE,seen x log1p(games),-0.01148,0.00102,-0.01348,-0.00948
+P2 games only,E1 learner-game FE + item FE,ctrl g<1h,-0.00088,0.00270,-0.00617,0.00441
+P2 games only,E1 learner-game FE + item FE,ctrl g1-24h,-0.00039,0.00101,-0.00238,0.00159
+P2 games only,E1 learner-game FE + item FE,ctrl g1-7d,-0.00045,0.00079,-0.00200,0.00110
+P2 games only,E1 learner-game FE + item FE,ctrl g_never,0.00057,0.00333,-0.00597,0.00710
+P2 games only,E3 learner-game FE + item difficulty,seen,0.10591,0.00737,0.09146,0.12037
+P2 games only,E3 learner-game FE + item difficulty,seen x log1p(games),-0.01153,0.00104,-0.01356,-0.00950
+P2 games only,E3 learner-game FE + item difficulty,ctrl g<1h,-0.00034,0.00271,-0.00564,0.00496
+P2 games only,E3 learner-game FE + item difficulty,ctrl g1-24h,0.00032,0.00101,-0.00166,0.00231
+P2 games only,E3 learner-game FE + item difficulty,ctrl g1-7d,-0.00003,0.00079,-0.00158,0.00152
+P2 games only,E3 learner-game FE + item difficulty,ctrl g_never,-0.00013,0.00320,-0.00641,0.00615
+P2 games only,E3 learner-game FE + item difficulty,item_p_loo,0.82646,0.02013,0.78701,0.86592
+P3 time + games,E1 learner-game FE + item FE,seen,0.10897,0.00797,0.09335,0.12459
+P3 time + games,E1 learner-game FE + item FE,seen x log1p(hours),-0.00556,0.00120,-0.00791,-0.00320
+P3 time + games,E1 learner-game FE + item FE,seen x log1p(games),-0.00661,0.00096,-0.00849,-0.00474
+P3 time + games,E1 learner-game FE + item FE,ctrl g<1h,-0.00165,0.00269,-0.00693,0.00363
+P3 time + games,E1 learner-game FE + item FE,ctrl g1-24h,-0.00061,0.00101,-0.00260,0.00137
+P3 time + games,E1 learner-game FE + item FE,ctrl g1-7d,-0.00053,0.00079,-0.00208,0.00102
+P3 time + games,E1 learner-game FE + item FE,ctrl g_never,0.00057,0.00333,-0.00596,0.00711
+P3 time + games,E3 learner-game FE + item difficulty,seen,0.10932,0.00809,0.09347,0.12517
+P3 time + games,E3 learner-game FE + item difficulty,seen x log1p(hours),-0.00546,0.00122,-0.00785,-0.00308
+P3 time + games,E3 learner-game FE + item difficulty,seen x log1p(games),-0.00675,0.00097,-0.00865,-0.00485
+P3 time + games,E3 learner-game FE + item difficulty,ctrl g<1h,-0.00110,0.00270,-0.00638,0.00418
+P3 time + games,E3 learner-game FE + item difficulty,ctrl g1-24h,0.00010,0.00101,-0.00188,0.00209
+P3 time + games,E3 learner-game FE + item difficulty,ctrl g1-7d,-0.00011,0.00079,-0.00166,0.00144
+P3 time + games,E3 learner-game FE + item difficulty,ctrl g_never,-0.00014,0.00320,-0.00642,0.00614
+P3 time + games,E3 learner-game FE + item difficulty,item_p_loo,0.82646,0.02013,0.78700,0.86591
+P4 time + games + category games,E1 learner-game FE + item FE,seen,0.11886,0.00721,0.10473,0.13300
+P4 time + games + category games,E1 learner-game FE + item FE,seen x log1p(hours),-0.00624,0.00115,-0.00850,-0.00397
+P4 time + games + category games,E1 learner-game FE + item FE,seen x log1p(games),-0.01226,0.00160,-0.01540,-0.00913
+P4 time + games + category games,E1 learner-game FE + item FE,seen x log1p(cat games),0.00752,0.00189,0.00382,0.01121
+P4 time + games + category games,E1 learner-game FE + item FE,ctrl g<1h,-0.00210,0.00270,-0.00739,0.00319
+P4 time + games + category games,E1 learner-game FE + item FE,ctrl g1-24h,-0.00062,0.00101,-0.00260,0.00137
+P4 time + games + category games,E1 learner-game FE + item FE,ctrl g1-7d,-0.00051,0.00079,-0.00206,0.00104
+P4 time + games + category games,E1 learner-game FE + item FE,ctrl g_never,0.00059,0.00333,-0.00595,0.00712
+P4 time + games + category games,E3 learner-game FE + item difficulty,seen,0.11878,0.00739,0.10430,0.13326
+P4 time + games + category games,E3 learner-game FE + item difficulty,seen x log1p(hours),-0.00612,0.00118,-0.00842,-0.00381
+P4 time + games + category games,E3 learner-game FE + item difficulty,seen x log1p(games),-0.01216,0.00163,-0.01536,-0.00896
+P4 time + games + category games,E3 learner-game FE + item difficulty,seen x log1p(cat games),0.00720,0.00188,0.00350,0.01089
+P4 time + games + category games,E3 learner-game FE + item difficulty,ctrl g<1h,-0.00153,0.00270,-0.00683,0.00376
+P4 time + games + category games,E3 learner-game FE + item difficulty,ctrl g1-24h,0.00010,0.00101,-0.00189,0.00209
+P4 time + games + category games,E3 learner-game FE + item difficulty,ctrl g1-7d,-0.00009,0.00079,-0.00164,0.00146
+P4 time + games + category games,E3 learner-game FE + item difficulty,ctrl g_never,-0.00013,0.00320,-0.00640,0.00615
+P4 time + games + category games,E3 learner-game FE + item difficulty,item_p_loo,0.82645,0.02013,0.78699,0.86590
+T time x games cells,E1 learner-game FE + item FE,<1d | g1-10,0.14511,0.01023,0.12506,0.16516
+T time x games cells,E1 learner-game FE + item FE,<1d | g11-50,0.09509,0.00697,0.08144,0.10875
+T time x games cells,E1 learner-game FE + item FE,<1d | g51-200,0.06394,0.00670,0.05082,0.07707
+T time x games cells,E1 learner-game FE + item FE,<1d | g>200,0.02578,0.01477,-0.00317,0.05472
+T time x games cells,E1 learner-game FE + item FE,1-7d | g1-10,0.13148,0.02479,0.08289,0.18007
+T time x games cells,E1 learner-game FE + item FE,1-7d | g11-50,0.07641,0.00740,0.06189,0.09092
+T time x games cells,E1 learner-game FE + item FE,1-7d | g51-200,0.05858,0.00418,0.05039,0.06676
+T time x games cells,E1 learner-game FE + item FE,1-7d | g>200,0.03266,0.00311,0.02656,0.03876
+T time x games cells,E1 learner-game FE + item FE,7-30d | g1-10,0.02949,0.06727,-0.10236,0.16134
+T time x games cells,E1 learner-game FE + item FE,7-30d | g11-50,0.05507,0.01646,0.02280,0.08734
+T time x games cells,E1 learner-game FE + item FE,7-30d | g51-200,0.04252,0.00539,0.03195,0.05308
+T time x games cells,E1 learner-game FE + item FE,7-30d | g>200,0.02636,0.00225,0.02195,0.03077
+T time x games cells,E1 learner-game FE + item FE,>30d | g1-10,-0.00191,0.08369,-0.16594,0.16212
+T time x games cells,E1 learner-game FE + item FE,>30d | g11-50,0.01386,0.02258,-0.03040,0.05811
+T time x games cells,E1 learner-game FE + item FE,>30d | g51-200,0.02394,0.00796,0.00835,0.03954
+T time x games cells,E1 learner-game FE + item FE,>30d | g>200,0.01404,0.00146,0.01118,0.01690
+T time x games cells,E1 learner-game FE + item FE,ctrl g<1h,-0.00448,0.00272,-0.00982,0.00086
+T time x games cells,E1 learner-game FE + item FE,ctrl g1-24h,-0.00098,0.00102,-0.00298,0.00102
+T time x games cells,E1 learner-game FE + item FE,ctrl g1-7d,-0.00049,0.00079,-0.00204,0.00107
+T time x games cells,E1 learner-game FE + item FE,ctrl g_never,0.00052,0.00333,-0.00601,0.00705
+T time x games cells,E3 learner-game FE + item difficulty,<1d | g1-10,0.14511,0.01029,0.12495,0.16528
+T time x games cells,E3 learner-game FE + item difficulty,<1d | g11-50,0.09574,0.00696,0.08209,0.10939
+T time x games cells,E3 learner-game FE + item difficulty,<1d | g51-200,0.06431,0.00661,0.05135,0.07727
+T time x games cells,E3 learner-game FE + item difficulty,<1d | g>200,0.02741,0.01544,-0.00286,0.05768
+T time x games cells,E3 learner-game FE + item difficulty,1-7d | g1-10,0.13381,0.02504,0.08473,0.18289
+T time x games cells,E3 learner-game FE + item difficulty,1-7d | g11-50,0.07732,0.00753,0.06256,0.09207
+T time x games cells,E3 learner-game FE + item difficulty,1-7d | g51-200,0.05838,0.00428,0.04999,0.06677
+T time x games cells,E3 learner-game FE + item difficulty,1-7d | g>200,0.03263,0.00323,0.02630,0.03896
+T time x games cells,E3 learner-game FE + item difficulty,7-30d | g1-10,0.03125,0.06629,-0.09868,0.16117
+T time x games cells,E3 learner-game FE + item difficulty,7-30d | g11-50,0.05550,0.01638,0.02339,0.08761
+T time x games cells,E3 learner-game FE + item difficulty,7-30d | g51-200,0.04321,0.00543,0.03256,0.05385
+T time x games cells,E3 learner-game FE + item difficulty,7-30d | g>200,0.02623,0.00228,0.02176,0.03070
+T time x games cells,E3 learner-game FE + item difficulty,>30d | g1-10,-0.00341,0.08618,-0.17231,0.16550
+T time x games cells,E3 learner-game FE + item difficulty,>30d | g11-50,0.01607,0.02268,-0.02838,0.06052
+T time x games cells,E3 learner-game FE + item difficulty,>30d | g51-200,0.02376,0.00796,0.00817,0.03935
+T time x games cells,E3 learner-game FE + item difficulty,>30d | g>200,0.01401,0.00153,0.01101,0.01701
+T time x games cells,E3 learner-game FE + item difficulty,ctrl g<1h,-0.00395,0.00274,-0.00931,0.00142
+T time x games cells,E3 learner-game FE + item difficulty,ctrl g1-24h,-0.00028,0.00102,-0.00228,0.00173
+T time x games cells,E3 learner-game FE + item difficulty,ctrl g1-7d,-0.00007,0.00079,-0.00162,0.00149
+T time x games cells,E3 learner-game FE + item difficulty,ctrl g_never,-0.00016,0.00320,-0.00644,0.00611
+T time x games cells,E3 learner-game FE + item difficulty,item_p_loo,0.82646,0.02013,0.78701,0.86591

@@ -1,0 +1,2 @@
+model,n,AUC,RMSE,LogLoss,ECE,val_AUC,dim,lr,dropout,window,reweight
+M7 DKT-time,344790,0.79878,0.42312,0.53059,0.01909,0.80843,128.00000,0.00100,0.20000,200.00000,1.00000

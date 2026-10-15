@@ -1,0 +1,13 @@
+model,group,D_pp,lo,hi
+M5 GBM (all features),all,0.9533,0.8518,1.4237
+M5 GBM (all features),after correct,2.1931,1.5859,2.9694
+M5 GBM (all features),after error,2.3440,2.1876,3.7118
+M5a GBM without memory features,all,2.7897,2.4760,3.1959
+M5a GBM without memory features,after correct,7.1027,6.4635,7.6899
+M5a GBM without memory features,after error,10.2457,9.3082,11.3584
+M6b DAS3H + item windows,all,0.8664,0.7355,1.6534
+M6b DAS3H + item windows,after correct,0.7377,0.7501,1.7347
+M6b DAS3H + item windows,after error,2.7248,2.2441,4.1486
+M7 DKT-time,all,1.6099,1.2919,2.2100
+M7 DKT-time,after correct,3.9918,3.3848,4.6621
+M7 DKT-time,after error,14.8785,13.7949,16.0900

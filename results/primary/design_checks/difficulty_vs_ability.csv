@@ -1,0 +1,4 @@
+term,coef,ci_low,ci_high,outcome_sd
+intercept,-0.00456,-0.00650,-0.00283,0.15509
+prior_acc,0.00806,0.00407,0.01228,0.15509
+log1p_prior_games,-0.00016,-0.00046,0.00015,0.15509

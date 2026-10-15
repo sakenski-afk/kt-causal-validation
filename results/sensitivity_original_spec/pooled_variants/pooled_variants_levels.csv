@@ -1,0 +1,37 @@
+variant,model,group,AUC,D_pp,lo,hi
+main,M5 GBM (all features),all,0.81425,0.90703,0.81597,1.37591
+main,M5 GBM (all features),after correct,0.81425,2.17379,1.56180,3.00827
+main,M5 GBM (all features),after error,0.81425,2.29263,2.19454,3.60628
+main,M5a GBM without memory features,all,0.81077,2.78972,2.48608,3.17534
+main,M5a GBM without memory features,after correct,0.81077,7.10272,6.46632,7.69916
+main,M5a GBM without memory features,after error,0.81077,10.24572,9.32637,11.32036
+main,M6b DAS3H + item windows,all,0.80376,0.93220,0.75683,1.65042
+main,M6b DAS3H + item windows,after correct,0.80376,0.73183,0.75502,1.75111
+main,M6b DAS3H + item windows,after error,0.80376,2.92254,2.40405,4.37539
+main,M7 DKT-time,all,0.79815,1.60885,1.31478,2.18484
+main,M7 DKT-time,after correct,0.79815,3.98948,3.40936,4.66456
+main,M7 DKT-time,after error,0.79815,14.87749,13.90066,15.99102
+leakfree,M5 GBM (all features),all,0.81344,0.95326,0.84486,1.42697
+leakfree,M5 GBM (all features),after correct,0.81344,2.19309,1.58741,3.02409
+leakfree,M5 GBM (all features),after error,0.81344,2.34397,2.24602,3.65344
+leakfree,M5a GBM without memory features,all,0.80998,2.78972,2.48608,3.17534
+leakfree,M5a GBM without memory features,after correct,0.80998,7.10272,6.46632,7.69916
+leakfree,M5a GBM without memory features,after error,0.80998,10.24572,9.32637,11.32036
+leakfree,M6b DAS3H + item windows,all,0.80376,0.93220,0.75683,1.65042
+leakfree,M6b DAS3H + item windows,after correct,0.80376,0.73183,0.75502,1.75111
+leakfree,M6b DAS3H + item windows,after error,0.80376,2.92254,2.40405,4.37539
+leakfree,M7 DKT-time,all,0.79815,1.60885,1.31478,2.18484
+leakfree,M7 DKT-time,after correct,0.79815,3.98948,3.40936,4.66456
+leakfree,M7 DKT-time,after error,0.79815,14.87749,13.90066,15.99102
+das3h_direct,M5 GBM (all features),all,0.81425,0.90703,0.81597,1.37591
+das3h_direct,M5 GBM (all features),after correct,0.81425,2.17379,1.56180,3.00827
+das3h_direct,M5 GBM (all features),after error,0.81425,2.29263,2.19454,3.60628
+das3h_direct,M5a GBM without memory features,all,0.81077,2.78972,2.48608,3.17534
+das3h_direct,M5a GBM without memory features,after correct,0.81077,7.10272,6.46632,7.69916
+das3h_direct,M5a GBM without memory features,after error,0.81077,10.24572,9.32637,11.32036
+das3h_direct,M6b DAS3H + item windows,all,0.80376,0.86638,0.70039,1.60397
+das3h_direct,M6b DAS3H + item windows,after correct,0.80376,0.73769,0.73533,1.78271
+das3h_direct,M6b DAS3H + item windows,after error,0.80376,2.72479,2.26964,4.19639
+das3h_direct,M7 DKT-time,all,0.79815,1.60885,1.31478,2.18484
+das3h_direct,M7 DKT-time,after correct,0.79815,3.98948,3.40936,4.66456
+das3h_direct,M7 DKT-time,after error,0.79815,14.87749,13.90066,15.99102

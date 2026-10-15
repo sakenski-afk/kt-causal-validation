@@ -1,0 +1,71 @@
+group,source,hours,effect,effect_isotonic
+after correct,causal,0.04490,0.10383,0.12204
+after correct,causal,0.30209,0.13635,0.12204
+after correct,causal,0.72225,0.12595,0.12204
+after correct,causal,1.82232,0.10321,0.10785
+after correct,causal,4.28824,0.11097,0.10785
+after correct,causal,8.75034,0.10739,0.10785
+after correct,causal,18.32516,0.10984,0.10785
+after correct,causal,34.85570,0.09047,0.09098
+after correct,causal,59.06581,0.09149,0.09098
+after correct,causal,114.98230,0.08504,0.08504
+after correct,causal,243.16822,0.07909,0.07909
+after correct,causal,503.09164,0.07116,0.07116
+after correct,causal,1270.00039,0.06556,0.06556
+after correct,causal,4200.31881,0.06213,0.06213
+after correct,M5 GBM (all features),0.25000,0.07234,
+after correct,M5 GBM (all features),0.50000,0.07231,
+after correct,M5 GBM (all features),1.00000,0.07231,
+after correct,M5 GBM (all features),2.00000,0.07233,
+after correct,M5 GBM (all features),4.00000,0.07234,
+after correct,M5 GBM (all features),8.00000,0.07234,
+after correct,M5 GBM (all features),12.00000,0.07202,
+after correct,M5 GBM (all features),24.00000,0.07119,
+after correct,M5 GBM (all features),48.00000,0.07020,
+after correct,M5 GBM (all features),72.00000,0.06854,
+after correct,M5 GBM (all features),120.00000,0.06629,
+after correct,M5 GBM (all features),168.00000,0.06384,
+after correct,M5 GBM (all features),240.00000,0.05961,
+after correct,M5 GBM (all features),336.00000,0.05202,
+after correct,M5 GBM (all features),504.00000,0.05067,
+after correct,M5 GBM (all features),720.00000,0.04959,
+after correct,M5 GBM (all features),1080.00000,0.04996,
+after correct,M5 GBM (all features),1440.00000,0.04956,
+after correct,M5 GBM (all features),2160.00000,0.04746,
+after correct,M5 GBM (all features),3000.00000,0.04561,
+after correct,M5 GBM (all features),4320.00000,0.04667,
+after error,causal,0.04490,0.25423,0.25423
+after error,causal,0.30209,0.18278,0.18278
+after error,causal,0.72225,0.16933,0.16933
+after error,causal,1.82232,0.09678,0.09678
+after error,causal,4.28824,0.07071,0.07439
+after error,causal,8.75034,0.07806,0.07439
+after error,causal,18.32516,0.03588,0.03588
+after error,causal,34.85570,-0.01075,-0.01075
+after error,causal,59.06581,-0.02985,-0.02985
+after error,causal,114.98230,-0.05172,-0.05172
+after error,causal,243.16822,-0.07936,-0.07936
+after error,causal,503.09164,-0.08993,-0.08993
+after error,causal,1270.00039,-0.10500,-0.10500
+after error,causal,4200.31881,-0.11222,-0.11222
+after error,M5 GBM (all features),0.25000,0.01346,
+after error,M5 GBM (all features),0.50000,0.00556,
+after error,M5 GBM (all features),1.00000,0.00556,
+after error,M5 GBM (all features),2.00000,0.00299,
+after error,M5 GBM (all features),4.00000,-0.00048,
+after error,M5 GBM (all features),8.00000,-0.00123,
+after error,M5 GBM (all features),12.00000,-0.00618,
+after error,M5 GBM (all features),24.00000,-0.02347,
+after error,M5 GBM (all features),48.00000,-0.03198,
+after error,M5 GBM (all features),72.00000,-0.04272,
+after error,M5 GBM (all features),120.00000,-0.05943,
+after error,M5 GBM (all features),168.00000,-0.06878,
+after error,M5 GBM (all features),240.00000,-0.08062,
+after error,M5 GBM (all features),336.00000,-0.08937,
+after error,M5 GBM (all features),504.00000,-0.10070,
+after error,M5 GBM (all features),720.00000,-0.10458,
+after error,M5 GBM (all features),1080.00000,-0.10479,
+after error,M5 GBM (all features),1440.00000,-0.10668,
+after error,M5 GBM (all features),2160.00000,-0.11715,
+after error,M5 GBM (all features),3000.00000,-0.12111,
+after error,M5 GBM (all features),4320.00000,-0.11941,

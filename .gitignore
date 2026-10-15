@@ -1,0 +1,23 @@
+# personal data and record-level intermediates must never be committed
+*.parquet
+*.npz
+*.pt
+*.gz
+*.sql
+mysql_*/
+work/
+work_v2/
+clean/
+accounts_screened.csv
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

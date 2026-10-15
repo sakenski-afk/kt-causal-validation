@@ -1,0 +1,109 @@
+group,lag_bin,model,logodds
+all,<1h,CAUSAL clogit,0.1588
+all,<1h,M5 GBM (all features),0.0978
+all,<1h,M6b DAS3H + item windows,0.1308
+all,<1h,M7 DKT-time,0.0924
+all,1-6h,CAUSAL clogit,0.0971
+all,1-6h,M5 GBM (all features),0.0790
+all,1-6h,M6b DAS3H + item windows,0.0931
+all,1-6h,M7 DKT-time,0.0798
+all,6-24h,CAUSAL clogit,0.0855
+all,6-24h,M5 GBM (all features),0.0713
+all,6-24h,M6b DAS3H + item windows,0.0913
+all,6-24h,M7 DKT-time,0.0766
+all,1-3d,CAUSAL clogit,0.0586
+all,1-3d,M5 GBM (all features),0.0548
+all,1-3d,M6b DAS3H + item windows,0.0579
+all,1-3d,M7 DKT-time,0.0662
+all,3-7d,CAUSAL clogit,0.0414
+all,3-7d,M5 GBM (all features),0.0413
+all,3-7d,M6b DAS3H + item windows,0.0571
+all,3-7d,M7 DKT-time,0.0585
+all,7-14d,CAUSAL clogit,0.0338
+all,7-14d,M5 GBM (all features),0.0285
+all,7-14d,M6b DAS3H + item windows,0.0359
+all,7-14d,M7 DKT-time,0.0516
+all,14-30d,CAUSAL clogit,0.0251
+all,14-30d,M5 GBM (all features),0.0191
+all,14-30d,M6b DAS3H + item windows,0.0388
+all,14-30d,M7 DKT-time,0.0467
+all,30-90d,CAUSAL clogit,0.0207
+all,30-90d,M5 GBM (all features),0.0119
+all,30-90d,M6b DAS3H + item windows,0.0278
+all,30-90d,M7 DKT-time,0.0380
+all,>90d,CAUSAL clogit,0.0135
+all,>90d,M5 GBM (all features),0.0097
+all,>90d,M6b DAS3H + item windows,0.0162
+all,>90d,M7 DKT-time,0.0245
+after correct,<1h,CAUSAL clogit,0.1361
+after correct,<1h,M5 GBM (all features),0.1035
+after correct,<1h,M6b DAS3H + item windows,0.1144
+after correct,<1h,M7 DKT-time,0.0815
+after correct,1-6h,CAUSAL clogit,0.1148
+after correct,1-6h,M5 GBM (all features),0.0887
+after correct,1-6h,M6b DAS3H + item windows,0.1090
+after correct,1-6h,M7 DKT-time,0.0668
+after correct,6-24h,CAUSAL clogit,0.1070
+after correct,6-24h,M5 GBM (all features),0.0846
+after correct,6-24h,M6b DAS3H + item windows,0.1055
+after correct,6-24h,M7 DKT-time,0.0652
+after correct,1-3d,CAUSAL clogit,0.0895
+after correct,1-3d,M5 GBM (all features),0.0726
+after correct,1-3d,M6b DAS3H + item windows,0.0914
+after correct,1-3d,M7 DKT-time,0.0559
+after correct,3-7d,CAUSAL clogit,0.0833
+after correct,3-7d,M5 GBM (all features),0.0626
+after correct,3-7d,M6b DAS3H + item windows,0.0890
+after correct,3-7d,M7 DKT-time,0.0487
+after correct,7-14d,CAUSAL clogit,0.0756
+after correct,7-14d,M5 GBM (all features),0.0530
+after correct,7-14d,M6b DAS3H + item windows,0.0724
+after correct,7-14d,M7 DKT-time,0.0443
+after correct,14-30d,CAUSAL clogit,0.0690
+after correct,14-30d,M5 GBM (all features),0.0458
+after correct,14-30d,M6b DAS3H + item windows,0.0726
+after correct,14-30d,M7 DKT-time,0.0405
+after correct,30-90d,CAUSAL clogit,0.0693
+after correct,30-90d,M5 GBM (all features),0.0428
+after correct,30-90d,M6b DAS3H + item windows,0.0630
+after correct,30-90d,M7 DKT-time,0.0336
+after correct,>90d,CAUSAL clogit,0.0662
+after correct,>90d,M5 GBM (all features),0.0485
+after correct,>90d,M6b DAS3H + item windows,0.0593
+after correct,>90d,M7 DKT-time,0.0210
+after error,<1h,CAUSAL clogit,0.2409
+after error,<1h,M5 GBM (all features),0.0828
+after error,<1h,M6b DAS3H + item windows,0.1743
+after error,<1h,M7 DKT-time,0.1215
+after error,1-6h,CAUSAL clogit,0.0835
+after error,1-6h,M5 GBM (all features),0.0536
+after error,1-6h,M6b DAS3H + item windows,0.0512
+after error,1-6h,M7 DKT-time,0.1146
+after error,6-24h,CAUSAL clogit,0.0602
+after error,6-24h,M5 GBM (all features),0.0324
+after error,6-24h,M6b DAS3H + item windows,0.0499
+after error,6-24h,M7 DKT-time,0.1123
+after error,1-3d,CAUSAL clogit,0.0094
+after error,1-3d,M5 GBM (all features),-0.0041
+after error,1-3d,M6b DAS3H + item windows,-0.0525
+after error,1-3d,M7 DKT-time,0.1010
+after error,3-7d,CAUSAL clogit,-0.0475
+after error,3-7d,M5 GBM (all features),-0.0315
+after error,3-7d,M6b DAS3H + item windows,-0.0523
+after error,3-7d,M7 DKT-time,0.0932
+after error,7-14d,CAUSAL clogit,-0.0558
+after error,7-14d,M5 GBM (all features),-0.0618
+after error,7-14d,M6b DAS3H + item windows,-0.0985
+after error,7-14d,M7 DKT-time,0.0791
+after error,14-30d,CAUSAL clogit,-0.0812
+after error,14-30d,M5 GBM (all features),-0.0906
+after error,14-30d,M6b DAS3H + item windows,-0.0999
+after error,14-30d,M7 DKT-time,0.0721
+after error,30-90d,CAUSAL clogit,-0.1001
+after error,30-90d,M5 GBM (all features),-0.1120
+after error,30-90d,M6b DAS3H + item windows,-0.1136
+after error,30-90d,M7 DKT-time,0.0558
+after error,>90d,CAUSAL clogit,-0.1143
+after error,>90d,M5 GBM (all features),-0.1201
+after error,>90d,M6b DAS3H + item windows,-0.1276
+after error,>90d,M7 DKT-time,0.0362

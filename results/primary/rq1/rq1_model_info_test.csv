@@ -1,0 +1,4 @@
+spec,estimator,n,clusters,iters
+A seen,E1 learner-game FE + item FE,440038,3876,1787
+B lag,E1 learner-game FE + item FE,440038,3876,1779
+C lag x prev,E1 learner-game FE + item FE,440038,3876,1779

@@ -1,0 +1,57 @@
+cff-version: 1.2.0
+message: "If you use this code or the results, please cite the article and this archived repository."
+title: "Code and aggregated results for: Causal Validation of Knowledge-Tracing Models with Naturally Randomized Item Exposure in Game-Based Learning"
+version: 1.0.0
+date-released: 2026-10-14
+license: MIT
+repository-code: "https://github.com/sakenski-afk/kt-causal-validation"
+# doi: 10.5281/zenodo.XXXXXXX   # uncomment after the first Zenodo release
+keywords:
+  - knowledge tracing
+  - causal inference
+  - natural experiment
+  - model evaluation
+  - counterfactual evaluation
+  - game-based learning
+authors:
+  - family-names: Kulatay
+    given-names: Aibolat
+    affiliation: "Al-Farabi Kazakh National University"
+  - family-names: Zhaisanova
+    given-names: Dinara
+    affiliation: "Al-Farabi Kazakh National University"
+  - family-names: Kulambayev
+    given-names: Bakhytzhan
+    affiliation: "Turan University"
+  - family-names: Mambetov
+    given-names: Saken
+    affiliation: "Turan University"
+  - family-names: Zhaksylyk
+    given-names: Almash
+    affiliation: "Satbayev University"
+  - family-names: Karataeva
+    given-names: Zhanbubi
+    affiliation: "Almaty Technological University"
+  - family-names: Skakova
+    given-names: Aigul
+    affiliation: "Nur-Mubarak University"
+preferred-citation:
+  type: article
+  title: "Causal Validation of Knowledge-Tracing Models with Naturally Randomized Item Exposure in Game-Based Learning"
+  journal: "Machine Learning and Knowledge Extraction"
+  year: 2026
+  authors:
+    - family-names: Kulatay
+      given-names: Aibolat
+    - family-names: Zhaisanova
+      given-names: Dinara
+    - family-names: Kulambayev
+      given-names: Bakhytzhan
+    - family-names: Mambetov
+      given-names: Saken
+    - family-names: Zhaksylyk
+      given-names: Almash
+    - family-names: Karataeva
+      given-names: Zhanbubi
+    - family-names: Skakova
+      given-names: Aigul

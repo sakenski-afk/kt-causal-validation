@@ -1,0 +1,29 @@
+model,subset,n,implied_effect,item_specific_path
+M7 DKT-time,all,40000,0.03376,True
+M7 DKT-time,lag <1h,126,0.10105,True
+M7 DKT-time,lag 1-6h,164,0.08022,True
+M7 DKT-time,lag 6-24h,427,0.07836,True
+M7 DKT-time,lag 1-3d,1019,0.07030,True
+M7 DKT-time,lag 3-7d,1578,0.05934,True
+M7 DKT-time,lag 7-14d,2114,0.05425,True
+M7 DKT-time,lag 14-30d,3846,0.04818,True
+M7 DKT-time,lag 30-90d,10207,0.03621,True
+M7 DKT-time,lag >90d,20519,0.02224,True
+M7 DKT-time,"after correct, lag <1h",91,0.09290,True
+M7 DKT-time,"after correct, lag 1-6h",121,0.06670,True
+M7 DKT-time,"after correct, lag 6-24h",325,0.06839,True
+M7 DKT-time,"after correct, lag 1-3d",785,0.06112,True
+M7 DKT-time,"after correct, lag 3-7d",1230,0.05048,True
+M7 DKT-time,"after correct, lag 7-14d",1660,0.04880,True
+M7 DKT-time,"after correct, lag 14-30d",3082,0.04323,True
+M7 DKT-time,"after correct, lag 30-90d",8217,0.03233,True
+M7 DKT-time,"after correct, lag >90d",15743,0.01924,True
+M7 DKT-time,"after error, lag <1h",35,0.12224,True
+M7 DKT-time,"after error, lag 1-6h",43,0.11829,True
+M7 DKT-time,"after error, lag 6-24h",102,0.11012,True
+M7 DKT-time,"after error, lag 1-3d",234,0.10107,True
+M7 DKT-time,"after error, lag 3-7d",348,0.09066,True
+M7 DKT-time,"after error, lag 7-14d",454,0.07415,True
+M7 DKT-time,"after error, lag 14-30d",764,0.06815,True
+M7 DKT-time,"after error, lag 30-90d",1990,0.05225,True
+M7 DKT-time,"after error, lag >90d",4776,0.03213,True

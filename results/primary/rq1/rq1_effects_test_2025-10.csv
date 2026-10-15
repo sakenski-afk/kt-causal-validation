@@ -1,0 +1,41 @@
+spec,estimator,term,coef,se,ci_low,ci_high
+A seen,E1 learner-game FE + item FE,seen,0.02092,0.00326,0.01453,0.02730
+A seen,E1 learner-game FE + item FE,ctrl g<1h,0.01118,0.00991,-0.00824,0.03060
+A seen,E1 learner-game FE + item FE,ctrl g1-24h,0.00014,0.00320,-0.00614,0.00642
+A seen,E1 learner-game FE + item FE,ctrl g1-7d,-0.00003,0.00207,-0.00408,0.00402
+A seen,E1 learner-game FE + item FE,ctrl g_never,0.56230,0.26130,0.05015,1.07444
+B lag,E1 learner-game FE + item FE,lag <1h,0.17090,0.03203,0.10813,0.23367
+B lag,E1 learner-game FE + item FE,lag 1-6h,0.10751,0.02831,0.05202,0.16300
+B lag,E1 learner-game FE + item FE,lag 6-24h,0.11425,0.01534,0.08418,0.14432
+B lag,E1 learner-game FE + item FE,lag 1-3d,0.06703,0.01042,0.04660,0.08746
+B lag,E1 learner-game FE + item FE,lag 3-7d,0.03379,0.00783,0.01844,0.04914
+B lag,E1 learner-game FE + item FE,lag 7-14d,0.03610,0.00633,0.02368,0.04851
+B lag,E1 learner-game FE + item FE,lag 14-30d,0.02399,0.00473,0.01473,0.03325
+B lag,E1 learner-game FE + item FE,lag 30-90d,0.01392,0.00384,0.00639,0.02144
+B lag,E1 learner-game FE + item FE,lag >90d,0.01245,0.00317,0.00624,0.01866
+B lag,E1 learner-game FE + item FE,ctrl g<1h,-0.00319,0.00995,-0.02270,0.01632
+B lag,E1 learner-game FE + item FE,ctrl g1-24h,-0.00281,0.00315,-0.00899,0.00337
+B lag,E1 learner-game FE + item FE,ctrl g1-7d,-0.00071,0.00205,-0.00472,0.00329
+B lag,E1 learner-game FE + item FE,ctrl g_never,0.51033,0.26417,-0.00744,1.02811
+C lag x prev,E1 learner-game FE + item FE,"after correct, lag <1h",0.16231,0.03455,0.09459,0.23003
+C lag x prev,E1 learner-game FE + item FE,"after correct, lag 1-6h",0.12382,0.02712,0.07067,0.17696
+C lag x prev,E1 learner-game FE + item FE,"after correct, lag 6-24h",0.12930,0.01547,0.09899,0.15962
+C lag x prev,E1 learner-game FE + item FE,"after correct, lag 1-3d",0.09139,0.01092,0.06998,0.11280
+C lag x prev,E1 learner-game FE + item FE,"after correct, lag 3-7d",0.08025,0.00838,0.06384,0.09667
+C lag x prev,E1 learner-game FE + item FE,"after correct, lag 7-14d",0.08853,0.00650,0.07578,0.10128
+C lag x prev,E1 learner-game FE + item FE,"after correct, lag 14-30d",0.07227,0.00700,0.05856,0.08599
+C lag x prev,E1 learner-game FE + item FE,"after correct, lag 30-90d",0.06893,0.00475,0.05961,0.07824
+C lag x prev,E1 learner-game FE + item FE,"after correct, lag >90d",0.06672,0.00447,0.05795,0.07548
+C lag x prev,E1 learner-game FE + item FE,"after error, lag <1h",0.20162,0.06208,0.07995,0.32329
+C lag x prev,E1 learner-game FE + item FE,"after error, lag 1-6h",0.10548,0.05908,-0.01032,0.22127
+C lag x prev,E1 learner-game FE + item FE,"after error, lag 6-24h",0.11077,0.03849,0.03533,0.18621
+C lag x prev,E1 learner-game FE + item FE,"after error, lag 1-3d",0.05295,0.02688,0.00026,0.10563
+C lag x prev,E1 learner-game FE + item FE,"after error, lag 3-7d",-0.06474,0.01961,-0.10318,-0.02630
+C lag x prev,E1 learner-game FE + item FE,"after error, lag 7-14d",-0.08600,0.02512,-0.13523,-0.03676
+C lag x prev,E1 learner-game FE + item FE,"after error, lag 14-30d",-0.08674,0.01589,-0.11788,-0.05560
+C lag x prev,E1 learner-game FE + item FE,"after error, lag 30-90d",-0.12090,0.01244,-0.14528,-0.09651
+C lag x prev,E1 learner-game FE + item FE,"after error, lag >90d",-0.11027,0.01129,-0.13239,-0.08814
+C lag x prev,E1 learner-game FE + item FE,ctrl g<1h,-0.00304,0.00995,-0.02254,0.01647
+C lag x prev,E1 learner-game FE + item FE,ctrl g1-24h,-0.00269,0.00315,-0.00887,0.00349
+C lag x prev,E1 learner-game FE + item FE,ctrl g1-7d,-0.00050,0.00205,-0.00453,0.00353
+C lag x prev,E1 learner-game FE + item FE,ctrl g_never,0.51354,0.26374,-0.00339,1.03048

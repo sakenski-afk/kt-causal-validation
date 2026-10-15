@@ -1,0 +1,5 @@
+elo,model,iters,AUC,RMSE,LogLoss,ECE
+pipeline,M5 GBM (all features),244,0.80844,0.41751,0.51806,0.00441
+pipeline,M5a GBM without memory features,222,0.80511,0.41944,0.52233,0.00379
+batched,M5 GBM (all features),260,0.80759,0.41796,0.51898,0.00423
+batched,M5a GBM without memory features,225,0.80423,0.41990,0.52329,0.00399

@@ -1,0 +1,10 @@
+model,hours,mean_p,implied_effect_vs_unseen
+M5 GBM (all features),0.50000,0.82913,0.05439
+M5 GBM (all features),3.00000,0.82726,0.05252
+M5 GBM (all features),12.00000,0.82548,0.05074
+M5 GBM (all features),48.00000,0.81997,0.04523
+M5 GBM (all features),120.00000,0.81489,0.04015
+M5 GBM (all features),240.00000,0.80092,0.02618
+M5 GBM (all features),528.00000,0.79262,0.01788
+M5 GBM (all features),1440.00000,0.78984,0.01510
+M5 GBM (all features),4320.00000,0.78933,0.01459

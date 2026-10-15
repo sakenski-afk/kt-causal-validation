@@ -1,0 +1,12 @@
+# Python 3.12.10; exact versions used for the article
+duckdb==1.5.6
+pyarrow==25.0.1
+pandas==3.0.6
+numpy==2.5.3
+scipy==1.18.1
+scikit-learn==1.9.1
+lightgbm==4.7.0
+matplotlib==3.11.2
+pillow==12.3.0
+# deep models (DKT, DKT-time, SAKT, AKT, HawkesKT); CUDA 12.8 build: see https://pytorch.org/get-started/locally/
+torch==2.11.0

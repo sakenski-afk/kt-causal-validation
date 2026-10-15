@@ -1,0 +1,42 @@
+spec,estimator,term,coef,se,ci_low,ci_high
+P3 time + games + modifiers,E1 learner-game FE + item FE,seen,0.17184,0.00831,0.15555,0.18812
+P3 time + games + modifiers,E1 learner-game FE + item FE,seen x log1p(hours),-0.01288,0.00147,-0.01576,-0.01000
+P3 time + games + modifiers,E1 learner-game FE + item FE,seen x log1p(games),0.00435,0.00186,0.00071,0.00799
+P3 time + games + modifiers,E1 learner-game FE + item FE,seen x log1p(experience),-0.00683,0.00139,-0.00956,-0.00409
+P3 time + games + modifiers,E1 learner-game FE + item FE,seen x log(intensity),-0.01031,0.00253,-0.01527,-0.00536
+P3 time + games + modifiers,E1 learner-game FE + item FE,ctrl g<1h,-0.00197,0.00270,-0.00726,0.00333
+P3 time + games + modifiers,E1 learner-game FE + item FE,ctrl g1-24h,-0.00058,0.00101,-0.00257,0.00141
+P3 time + games + modifiers,E1 learner-game FE + item FE,ctrl g1-7d,-0.00046,0.00079,-0.00201,0.00109
+P3 time + games + modifiers,E1 learner-game FE + item FE,ctrl g_never,0.00093,0.00334,-0.00561,0.00747
+P4 time + games + category games + modifiers,E1 learner-game FE + item FE,seen,0.17230,0.00822,0.15618,0.18841
+P4 time + games + category games + modifiers,E1 learner-game FE + item FE,seen x log1p(hours),-0.01282,0.00146,-0.01568,-0.00996
+P4 time + games + category games + modifiers,E1 learner-game FE + item FE,seen x log1p(games),0.00141,0.00240,-0.00329,0.00612
+P4 time + games + category games + modifiers,E1 learner-game FE + item FE,seen x log1p(cat games),0.00314,0.00191,-0.00060,0.00688
+P4 time + games + category games + modifiers,E1 learner-game FE + item FE,seen x log1p(experience),-0.00628,0.00141,-0.00904,-0.00352
+P4 time + games + category games + modifiers,E1 learner-game FE + item FE,seen x log(intensity),-0.01002,0.00246,-0.01484,-0.00519
+P4 time + games + category games + modifiers,E1 learner-game FE + item FE,ctrl g<1h,-0.00214,0.00271,-0.00744,0.00316
+P4 time + games + category games + modifiers,E1 learner-game FE + item FE,ctrl g1-24h,-0.00058,0.00101,-0.00257,0.00140
+P4 time + games + category games + modifiers,E1 learner-game FE + item FE,ctrl g1-7d,-0.00046,0.00079,-0.00201,0.00109
+P4 time + games + category games + modifiers,E1 learner-game FE + item FE,ctrl g_never,0.00091,0.00334,-0.00563,0.00745
+T time x games cells + modifiers,E1 learner-game FE + item FE,<1d | g1-10,0.19385,0.01094,0.17241,0.21529
+T time x games cells + modifiers,E1 learner-game FE + item FE,<1d | g11-50,0.15115,0.00881,0.13387,0.16843
+T time x games cells + modifiers,E1 learner-game FE + item FE,<1d | g51-200,0.12722,0.00969,0.10823,0.14621
+T time x games cells + modifiers,E1 learner-game FE + item FE,<1d | g>200,0.09336,0.01555,0.06288,0.12384
+T time x games cells + modifiers,E1 learner-game FE + item FE,1-7d | g1-10,0.17005,0.02537,0.12032,0.21979
+T time x games cells + modifiers,E1 learner-game FE + item FE,1-7d | g11-50,0.12520,0.00925,0.10708,0.14332
+T time x games cells + modifiers,E1 learner-game FE + item FE,1-7d | g51-200,0.11813,0.00783,0.10279,0.13347
+T time x games cells + modifiers,E1 learner-game FE + item FE,1-7d | g>200,0.09873,0.00785,0.08335,0.11411
+T time x games cells + modifiers,E1 learner-game FE + item FE,7-30d | g1-10,0.06562,0.06771,-0.06709,0.19834
+T time x games cells + modifiers,E1 learner-game FE + item FE,7-30d | g11-50,0.09704,0.01707,0.06358,0.13051
+T time x games cells + modifiers,E1 learner-game FE + item FE,7-30d | g51-200,0.09495,0.00842,0.07844,0.11145
+T time x games cells + modifiers,E1 learner-game FE + item FE,7-30d | g>200,0.09192,0.00770,0.07682,0.10702
+T time x games cells + modifiers,E1 learner-game FE + item FE,>30d | g1-10,0.03009,0.08376,-0.13408,0.19426
+T time x games cells + modifiers,E1 learner-game FE + item FE,>30d | g11-50,0.05212,0.02312,0.00681,0.09743
+T time x games cells + modifiers,E1 learner-game FE + item FE,>30d | g51-200,0.07195,0.01004,0.05228,0.09162
+T time x games cells + modifiers,E1 learner-game FE + item FE,>30d | g>200,0.08105,0.00795,0.06547,0.09662
+T time x games cells + modifiers,E1 learner-game FE + item FE,seen x log1p(experience),-0.00655,0.00134,-0.00918,-0.00392
+T time x games cells + modifiers,E1 learner-game FE + item FE,seen x log(intensity),-0.00353,0.00177,-0.00700,-0.00005
+T time x games cells + modifiers,E1 learner-game FE + item FE,ctrl g<1h,-0.00442,0.00272,-0.00975,0.00091
+T time x games cells + modifiers,E1 learner-game FE + item FE,ctrl g1-24h,-0.00096,0.00102,-0.00296,0.00105
+T time x games cells + modifiers,E1 learner-game FE + item FE,ctrl g1-7d,-0.00046,0.00079,-0.00201,0.00110
+T time x games cells + modifiers,E1 learner-game FE + item FE,ctrl g_never,0.00080,0.00334,-0.00574,0.00734

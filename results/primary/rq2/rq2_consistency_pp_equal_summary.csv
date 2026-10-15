@@ -1,0 +1,13 @@
+group,model,implied_logodds,implied_lo,implied_hi,rmse_logodds,rmse_lo,rmse_hi,causal_logodds_pooled
+all,M5 GBM (all features),0.0167,0.0145,0.0196,0.0243,0.0179,0.0393,0.0224
+all,M6b DAS3H + item windows,0.0277,0.0218,0.0331,0.0145,0.0138,0.0282,0.0224
+all,M7 DKT-time,0.0359,0.0319,0.0402,0.0277,0.0225,0.0402,0.0224
+all,"no item path (M5a, PFA, Elo, DKT, SAKT)",0.0000,0.0000,0.0000,0.0758,0.0656,0.0873,0.0224
+after correct,M5 GBM (all features),0.0492,0.0443,0.0562,0.0257,0.0176,0.0414,0.0703
+after correct,M6b DAS3H + item windows,0.0659,0.0572,0.0755,0.0121,0.0128,0.0294,0.0703
+after correct,M7 DKT-time,0.0311,0.0270,0.0356,0.0410,0.0313,0.0545,0.0703
+after correct,"no item path (M5a, PFA, Elo, DKT, SAKT)",0.0000,0.0000,0.0000,0.0947,0.0839,0.1062,0.0703
+after error,M5 GBM (all features),-0.0995,-0.1084,-0.0866,0.0607,0.0505,0.0870,-0.0915
+after error,M6b DAS3H + item windows,-0.1088,-0.1156,-0.1021,0.0460,0.0411,0.0704,-0.0915
+after error,M7 DKT-time,0.0534,0.0506,0.0573,0.1242,0.1171,0.1398,-0.0915
+after error,"no item path (M5a, PFA, Elo, DKT, SAKT)",0.0000,0.0000,0.0000,0.1105,0.0983,0.1336,-0.0915

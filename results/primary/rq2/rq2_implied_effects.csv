@@ -1,0 +1,197 @@
+model,subset,n,implied_effect,item_specific_path
+M0 Global mean,all,102868,0.00000,False
+M0 Global mean,lag <1h,393,0.00000,False
+M0 Global mean,lag 1-6h,522,0.00000,False
+M0 Global mean,lag 6-24h,1185,0.00000,False
+M0 Global mean,lag 1-3d,2503,0.00000,False
+M0 Global mean,lag 3-7d,3972,0.00000,False
+M0 Global mean,lag 7-14d,5853,0.00000,False
+M0 Global mean,lag 14-30d,10501,0.00000,False
+M0 Global mean,lag 30-90d,21247,0.00000,False
+M0 Global mean,lag >90d,56692,0.00000,False
+M0 Global mean,"after correct, lag <1h",287,0.00000,False
+M0 Global mean,"after correct, lag 1-6h",366,0.00000,False
+M0 Global mean,"after correct, lag 6-24h",864,0.00000,False
+M0 Global mean,"after correct, lag 1-3d",1887,0.00000,False
+M0 Global mean,"after correct, lag 3-7d",3002,0.00000,False
+M0 Global mean,"after correct, lag 7-14d",4498,0.00000,False
+M0 Global mean,"after correct, lag 14-30d",8236,0.00000,False
+M0 Global mean,"after correct, lag 30-90d",16497,0.00000,False
+M0 Global mean,"after correct, lag >90d",42928,0.00000,False
+M0 Global mean,"after error, lag <1h",106,0.00000,False
+M0 Global mean,"after error, lag 1-6h",156,0.00000,False
+M0 Global mean,"after error, lag 6-24h",321,0.00000,False
+M0 Global mean,"after error, lag 1-3d",616,0.00000,False
+M0 Global mean,"after error, lag 3-7d",970,0.00000,False
+M0 Global mean,"after error, lag 7-14d",1355,0.00000,False
+M0 Global mean,"after error, lag 14-30d",2265,0.00000,False
+M0 Global mean,"after error, lag 30-90d",4750,0.00000,False
+M0 Global mean,"after error, lag >90d",13764,0.00000,False
+M1 Item difficulty,all,102868,0.00000,False
+M1 Item difficulty,lag <1h,393,0.00000,False
+M1 Item difficulty,lag 1-6h,522,0.00000,False
+M1 Item difficulty,lag 6-24h,1185,0.00000,False
+M1 Item difficulty,lag 1-3d,2503,0.00000,False
+M1 Item difficulty,lag 3-7d,3972,0.00000,False
+M1 Item difficulty,lag 7-14d,5853,0.00000,False
+M1 Item difficulty,lag 14-30d,10501,0.00000,False
+M1 Item difficulty,lag 30-90d,21247,0.00000,False
+M1 Item difficulty,lag >90d,56692,0.00000,False
+M1 Item difficulty,"after correct, lag <1h",287,0.00000,False
+M1 Item difficulty,"after correct, lag 1-6h",366,0.00000,False
+M1 Item difficulty,"after correct, lag 6-24h",864,0.00000,False
+M1 Item difficulty,"after correct, lag 1-3d",1887,0.00000,False
+M1 Item difficulty,"after correct, lag 3-7d",3002,0.00000,False
+M1 Item difficulty,"after correct, lag 7-14d",4498,0.00000,False
+M1 Item difficulty,"after correct, lag 14-30d",8236,0.00000,False
+M1 Item difficulty,"after correct, lag 30-90d",16497,0.00000,False
+M1 Item difficulty,"after correct, lag >90d",42928,0.00000,False
+M1 Item difficulty,"after error, lag <1h",106,0.00000,False
+M1 Item difficulty,"after error, lag 1-6h",156,0.00000,False
+M1 Item difficulty,"after error, lag 6-24h",321,0.00000,False
+M1 Item difficulty,"after error, lag 1-3d",616,0.00000,False
+M1 Item difficulty,"after error, lag 3-7d",970,0.00000,False
+M1 Item difficulty,"after error, lag 7-14d",1355,0.00000,False
+M1 Item difficulty,"after error, lag 14-30d",2265,0.00000,False
+M1 Item difficulty,"after error, lag 30-90d",4750,0.00000,False
+M1 Item difficulty,"after error, lag >90d",13764,0.00000,False
+M2 IRT-1PL,all,102868,0.00000,False
+M2 IRT-1PL,lag <1h,393,0.00000,False
+M2 IRT-1PL,lag 1-6h,522,0.00000,False
+M2 IRT-1PL,lag 6-24h,1185,0.00000,False
+M2 IRT-1PL,lag 1-3d,2503,0.00000,False
+M2 IRT-1PL,lag 3-7d,3972,0.00000,False
+M2 IRT-1PL,lag 7-14d,5853,0.00000,False
+M2 IRT-1PL,lag 14-30d,10501,0.00000,False
+M2 IRT-1PL,lag 30-90d,21247,0.00000,False
+M2 IRT-1PL,lag >90d,56692,0.00000,False
+M2 IRT-1PL,"after correct, lag <1h",287,0.00000,False
+M2 IRT-1PL,"after correct, lag 1-6h",366,0.00000,False
+M2 IRT-1PL,"after correct, lag 6-24h",864,0.00000,False
+M2 IRT-1PL,"after correct, lag 1-3d",1887,0.00000,False
+M2 IRT-1PL,"after correct, lag 3-7d",3002,0.00000,False
+M2 IRT-1PL,"after correct, lag 7-14d",4498,0.00000,False
+M2 IRT-1PL,"after correct, lag 14-30d",8236,0.00000,False
+M2 IRT-1PL,"after correct, lag 30-90d",16497,0.00000,False
+M2 IRT-1PL,"after correct, lag >90d",42928,0.00000,False
+M2 IRT-1PL,"after error, lag <1h",106,0.00000,False
+M2 IRT-1PL,"after error, lag 1-6h",156,0.00000,False
+M2 IRT-1PL,"after error, lag 6-24h",321,0.00000,False
+M2 IRT-1PL,"after error, lag 1-3d",616,0.00000,False
+M2 IRT-1PL,"after error, lag 3-7d",970,0.00000,False
+M2 IRT-1PL,"after error, lag 7-14d",1355,0.00000,False
+M2 IRT-1PL,"after error, lag 14-30d",2265,0.00000,False
+M2 IRT-1PL,"after error, lag 30-90d",4750,0.00000,False
+M2 IRT-1PL,"after error, lag >90d",13764,0.00000,False
+M3 PFA,all,102868,0.00000,True
+M3 PFA,lag <1h,393,0.00000,True
+M3 PFA,lag 1-6h,522,0.00000,True
+M3 PFA,lag 6-24h,1185,0.00000,True
+M3 PFA,lag 1-3d,2503,0.00000,True
+M3 PFA,lag 3-7d,3972,0.00000,True
+M3 PFA,lag 7-14d,5853,0.00000,True
+M3 PFA,lag 14-30d,10501,0.00000,True
+M3 PFA,lag 30-90d,21247,0.00000,True
+M3 PFA,lag >90d,56692,0.00000,True
+M3 PFA,"after correct, lag <1h",287,0.00000,True
+M3 PFA,"after correct, lag 1-6h",366,0.00000,True
+M3 PFA,"after correct, lag 6-24h",864,0.00000,True
+M3 PFA,"after correct, lag 1-3d",1887,0.00000,True
+M3 PFA,"after correct, lag 3-7d",3002,0.00000,True
+M3 PFA,"after correct, lag 7-14d",4498,0.00000,True
+M3 PFA,"after correct, lag 14-30d",8236,0.00000,True
+M3 PFA,"after correct, lag 30-90d",16497,0.00000,True
+M3 PFA,"after correct, lag >90d",42928,0.00000,True
+M3 PFA,"after error, lag <1h",106,0.00000,True
+M3 PFA,"after error, lag 1-6h",156,0.00000,True
+M3 PFA,"after error, lag 6-24h",321,0.00000,True
+M3 PFA,"after error, lag 1-3d",616,0.00000,True
+M3 PFA,"after error, lag 3-7d",970,0.00000,True
+M3 PFA,"after error, lag 7-14d",1355,0.00000,True
+M3 PFA,"after error, lag 14-30d",2265,0.00000,True
+M3 PFA,"after error, lag 30-90d",4750,0.00000,True
+M3 PFA,"after error, lag >90d",13764,0.00000,True
+M4 Elo (online),all,102868,0.00000,False
+M4 Elo (online),lag <1h,393,0.00000,False
+M4 Elo (online),lag 1-6h,522,0.00000,False
+M4 Elo (online),lag 6-24h,1185,0.00000,False
+M4 Elo (online),lag 1-3d,2503,0.00000,False
+M4 Elo (online),lag 3-7d,3972,0.00000,False
+M4 Elo (online),lag 7-14d,5853,0.00000,False
+M4 Elo (online),lag 14-30d,10501,0.00000,False
+M4 Elo (online),lag 30-90d,21247,0.00000,False
+M4 Elo (online),lag >90d,56692,0.00000,False
+M4 Elo (online),"after correct, lag <1h",287,0.00000,False
+M4 Elo (online),"after correct, lag 1-6h",366,0.00000,False
+M4 Elo (online),"after correct, lag 6-24h",864,0.00000,False
+M4 Elo (online),"after correct, lag 1-3d",1887,0.00000,False
+M4 Elo (online),"after correct, lag 3-7d",3002,0.00000,False
+M4 Elo (online),"after correct, lag 7-14d",4498,0.00000,False
+M4 Elo (online),"after correct, lag 14-30d",8236,0.00000,False
+M4 Elo (online),"after correct, lag 30-90d",16497,0.00000,False
+M4 Elo (online),"after correct, lag >90d",42928,0.00000,False
+M4 Elo (online),"after error, lag <1h",106,0.00000,False
+M4 Elo (online),"after error, lag 1-6h",156,0.00000,False
+M4 Elo (online),"after error, lag 6-24h",321,0.00000,False
+M4 Elo (online),"after error, lag 1-3d",616,0.00000,False
+M4 Elo (online),"after error, lag 3-7d",970,0.00000,False
+M4 Elo (online),"after error, lag 7-14d",1355,0.00000,False
+M4 Elo (online),"after error, lag 14-30d",2265,0.00000,False
+M4 Elo (online),"after error, lag 30-90d",4750,0.00000,False
+M4 Elo (online),"after error, lag >90d",13764,0.00000,False
+M5 GBM (all features),all,102868,0.01333,True
+M5 GBM (all features),lag <1h,393,0.10188,True
+M5 GBM (all features),lag 1-6h,522,0.09161,True
+M5 GBM (all features),lag 6-24h,1185,0.07292,True
+M5 GBM (all features),lag 1-3d,2503,0.05490,True
+M5 GBM (all features),lag 3-7d,3972,0.04204,True
+M5 GBM (all features),lag 7-14d,5853,0.02703,True
+M5 GBM (all features),lag 14-30d,10501,0.01813,True
+M5 GBM (all features),lag 30-90d,21247,0.01170,True
+M5 GBM (all features),lag >90d,56692,0.00520,True
+M5 GBM (all features),"after correct, lag <1h",287,0.10085,True
+M5 GBM (all features),"after correct, lag 1-6h",366,0.10222,True
+M5 GBM (all features),"after correct, lag 6-24h",864,0.08507,True
+M5 GBM (all features),"after correct, lag 1-3d",1887,0.07565,True
+M5 GBM (all features),"after correct, lag 3-7d",3002,0.06817,True
+M5 GBM (all features),"after correct, lag 7-14d",4498,0.05616,True
+M5 GBM (all features),"after correct, lag 14-30d",8236,0.04817,True
+M5 GBM (all features),"after correct, lag 30-90d",16497,0.04586,True
+M5 GBM (all features),"after correct, lag >90d",42928,0.04713,True
+M5 GBM (all features),"after error, lag <1h",106,0.10465,True
+M5 GBM (all features),"after error, lag 1-6h",156,0.06672,True
+M5 GBM (all features),"after error, lag 6-24h",321,0.04020,True
+M5 GBM (all features),"after error, lag 1-3d",616,-0.00866,True
+M5 GBM (all features),"after error, lag 3-7d",970,-0.03881,True
+M5 GBM (all features),"after error, lag 7-14d",1355,-0.06969,True
+M5 GBM (all features),"after error, lag 14-30d",2265,-0.09108,True
+M5 GBM (all features),"after error, lag 30-90d",4750,-0.10694,True
+M5 GBM (all features),"after error, lag >90d",13764,-0.12556,True
+M5a GBM without memory features,all,102868,0.00000,False
+M5a GBM without memory features,lag <1h,393,0.00000,False
+M5a GBM without memory features,lag 1-6h,522,0.00000,False
+M5a GBM without memory features,lag 6-24h,1185,0.00000,False
+M5a GBM without memory features,lag 1-3d,2503,0.00000,False
+M5a GBM without memory features,lag 3-7d,3972,0.00000,False
+M5a GBM without memory features,lag 7-14d,5853,0.00000,False
+M5a GBM without memory features,lag 14-30d,10501,0.00000,False
+M5a GBM without memory features,lag 30-90d,21247,0.00000,False
+M5a GBM without memory features,lag >90d,56692,0.00000,False
+M5a GBM without memory features,"after correct, lag <1h",287,0.00000,False
+M5a GBM without memory features,"after correct, lag 1-6h",366,0.00000,False
+M5a GBM without memory features,"after correct, lag 6-24h",864,0.00000,False
+M5a GBM without memory features,"after correct, lag 1-3d",1887,0.00000,False
+M5a GBM without memory features,"after correct, lag 3-7d",3002,0.00000,False
+M5a GBM without memory features,"after correct, lag 7-14d",4498,0.00000,False
+M5a GBM without memory features,"after correct, lag 14-30d",8236,0.00000,False
+M5a GBM without memory features,"after correct, lag 30-90d",16497,0.00000,False
+M5a GBM without memory features,"after correct, lag >90d",42928,0.00000,False
+M5a GBM without memory features,"after error, lag <1h",106,0.00000,False
+M5a GBM without memory features,"after error, lag 1-6h",156,0.00000,False
+M5a GBM without memory features,"after error, lag 6-24h",321,0.00000,False
+M5a GBM without memory features,"after error, lag 1-3d",616,0.00000,False
+M5a GBM without memory features,"after error, lag 3-7d",970,0.00000,False
+M5a GBM without memory features,"after error, lag 7-14d",1355,0.00000,False
+M5a GBM without memory features,"after error, lag 14-30d",2265,0.00000,False
+M5a GBM without memory features,"after error, lag 30-90d",4750,0.00000,False
+M5a GBM without memory features,"after error, lag >90d",13764,0.00000,False

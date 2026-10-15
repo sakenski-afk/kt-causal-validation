@@ -1,0 +1,13 @@
+group,model,half_life_h,half_life_lo,half_life_hi,retained_at_review,retained_lo,retained_hi,review_rate_ratio,ratio_lo,ratio_hi
+after correct,CAUSAL (reference),33.4164,1.7758,139.9597,0.5000,,,1.0000,0.2388,18.8179
+after correct,M5 GBM (all features),239.3847,,,0.2852,0.1695,0.4278,0.1396,0.0074,0.5847
+after correct,M7 DKT (no item path),,,,,,,,,
+after correct,M7 SAKT (no item path),,,,,,,,,
+after correct,M3 PFA (no item path),,,,,,,,,
+after correct,M4 Elo (online) (no item path),,,,,,,,,
+after error,CAUSAL (reference),9.3369,1.3895,20.0499,0.5000,,,1.0000,0.4657,6.7195
+after error,M5 GBM (all features),97.8089,,,0.1796,0.1236,0.2409,0.0955,0.0142,0.2050
+after error,M7 DKT (no item path),,,,,,,,,
+after error,M7 SAKT (no item path),,,,,,,,,
+after error,M3 PFA (no item path),,,,,,,,,
+after error,M4 Elo (online) (no item path),,,,,,,,,

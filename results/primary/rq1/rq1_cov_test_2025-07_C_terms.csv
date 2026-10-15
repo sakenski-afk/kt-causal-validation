@@ -1,0 +1,23 @@
+0
+"after correct, lag <1h"
+"after correct, lag 1-6h"
+"after correct, lag 6-24h"
+"after correct, lag 1-3d"
+"after correct, lag 3-7d"
+"after correct, lag 7-14d"
+"after correct, lag 14-30d"
+"after correct, lag 30-90d"
+"after correct, lag >90d"
+"after error, lag <1h"
+"after error, lag 1-6h"
+"after error, lag 6-24h"
+"after error, lag 1-3d"
+"after error, lag 3-7d"
+"after error, lag 7-14d"
+"after error, lag 14-30d"
+"after error, lag 30-90d"
+"after error, lag >90d"
+ctrl g<1h
+ctrl g1-24h
+ctrl g1-7d
+ctrl g_never

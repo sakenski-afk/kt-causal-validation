@@ -1,0 +1,17 @@
+group,model,half_life_h,half_life_lo,half_life_hi,retained_at_review,retained_lo,retained_hi,review_rate_ratio,ratio_lo,ratio_hi
+after correct,CAUSAL (reference),31.3024,1.6023,115.1160,0.5000,,,1.0000,0.2719,19.5365
+after correct,M7 DKT-time,47.0616,,,0.4500,0.2596,0.6592,0.6651,0.0340,2.4461
+after correct,M5 GBM (all features),203.0801,,,0.2649,0.1565,0.4027,0.1541,0.0079,0.5669
+after correct,M6b DAS3H + item windows,186.9944,,,0.2765,0.1651,0.4105,0.1674,0.0086,0.6156
+after correct,M7 DKT (no item path),,,,,,,,,
+after correct,M7 SAKT (no item path),,,,,,,,,
+after correct,M3 PFA (no item path),,,,,,,,,
+after correct,M4 Elo (online) (no item path),,,,,,,,,
+after error,CAUSAL (reference),4.2507,1.3228,19.6197,0.5000,,,1.0000,0.2167,3.2135
+after error,M7 DKT-time,43.2189,,,0.2407,0.1708,0.3222,0.0984,0.0306,0.4540
+after error,M5 GBM (all features),78.3573,,,0.1834,0.1223,0.2507,0.0542,0.0169,0.2504
+after error,M6b DAS3H + item windows,12.1421,,,0.4519,0.3397,0.5746,0.3501,0.1089,1.6158
+after error,M7 DKT (no item path),,,,,,,,,
+after error,M7 SAKT (no item path),,,,,,,,,
+after error,M3 PFA (no item path),,,,,,,,,
+after error,M4 Elo (online) (no item path),,,,,,,,,

@@ -1,0 +1,5 @@
+reference,model,dAUC,dAUC_lo,dAUC_hi,dD_all_pp,dD_all_lo,dD_all_hi,P_model_better_all,dD_after correct_pp,dD_after correct_lo,dD_after correct_hi,P_model_better_after correct,dD_after error_pp,dD_after error_lo,dD_after error_hi,P_model_better_after error
+M5 GBM (all features),M6b DAS3H + item windows,-0.00962,-0.01163,-0.00797,-0.08688,-0.43860,0.54409,0.64600,-1.45540,-1.82185,-0.44107,0.99800,0.38082,-0.43568,1.07507,0.20600
+M5 GBM (all features),M5a GBM without memory features,-0.00346,-0.00437,-0.00270,1.83645,1.41857,2.00484,0.00000,4.90962,4.33614,5.35797,0.00000,7.90175,5.94003,8.77784,0.00000
+M5 GBM (all features),M7 DKT-time,-0.01529,-0.01701,-0.01355,0.65664,0.05434,1.16496,0.01200,1.79875,1.34573,2.21039,0.00000,12.53449,10.45949,13.44139,0.00000
+M6b DAS3H + item windows,M7 DKT-time,-0.00567,-0.00829,-0.00320,0.74352,0.25780,1.11662,0.00000,3.25415,2.11030,3.36602,0.00000,12.15366,9.89890,13.40145,0.00000

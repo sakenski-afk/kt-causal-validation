@@ -1,0 +1,85 @@
+model,subset,n,implied_effect,item_specific_path
+M7 DKT,all,40000,0.00000,True
+M7 DKT,lag <1h,128,-0.00030,True
+M7 DKT,lag 1-6h,192,-0.00003,True
+M7 DKT,lag 6-24h,458,-0.00002,True
+M7 DKT,lag 1-3d,1030,0.00003,True
+M7 DKT,lag 3-7d,1508,-0.00000,True
+M7 DKT,lag 7-14d,2232,0.00001,True
+M7 DKT,lag 14-30d,4165,0.00000,True
+M7 DKT,lag 30-90d,8193,0.00000,True
+M7 DKT,lag >90d,22094,0.00000,True
+M7 DKT,"after correct, lag <1h",95,0.00008,True
+M7 DKT,"after correct, lag 1-6h",136,-0.00008,True
+M7 DKT,"after correct, lag 6-24h",330,-0.00004,True
+M7 DKT,"after correct, lag 1-3d",782,0.00004,True
+M7 DKT,"after correct, lag 3-7d",1149,-0.00000,True
+M7 DKT,"after correct, lag 7-14d",1706,0.00000,True
+M7 DKT,"after correct, lag 14-30d",3244,0.00000,True
+M7 DKT,"after correct, lag 30-90d",6404,0.00000,True
+M7 DKT,"after correct, lag >90d",16787,0.00000,True
+M7 DKT,"after error, lag <1h",33,-0.00138,True
+M7 DKT,"after error, lag 1-6h",56,0.00011,True
+M7 DKT,"after error, lag 6-24h",128,0.00001,True
+M7 DKT,"after error, lag 1-3d",248,0.00002,True
+M7 DKT,"after error, lag 3-7d",359,0.00001,True
+M7 DKT,"after error, lag 7-14d",526,0.00001,True
+M7 DKT,"after error, lag 14-30d",921,-0.00000,True
+M7 DKT,"after error, lag 30-90d",1789,-0.00000,True
+M7 DKT,"after error, lag >90d",5307,0.00000,True
+M7 DKT-time,all,40000,0.03573,True
+M7 DKT-time,lag <1h,128,0.10509,True
+M7 DKT-time,lag 1-6h,192,0.09124,True
+M7 DKT-time,lag 6-24h,458,0.08369,True
+M7 DKT-time,lag 1-3d,1030,0.07063,True
+M7 DKT-time,lag 3-7d,1508,0.06392,True
+M7 DKT-time,lag 7-14d,2232,0.05468,True
+M7 DKT-time,lag 14-30d,4165,0.05089,True
+M7 DKT-time,lag 30-90d,8193,0.04117,True
+M7 DKT-time,lag >90d,22094,0.02351,True
+M7 DKT-time,"after correct, lag <1h",95,0.08989,True
+M7 DKT-time,"after correct, lag 1-6h",136,0.07608,True
+M7 DKT-time,"after correct, lag 6-24h",330,0.07175,True
+M7 DKT-time,"after correct, lag 1-3d",782,0.06077,True
+M7 DKT-time,"after correct, lag 3-7d",1149,0.05501,True
+M7 DKT-time,"after correct, lag 7-14d",1706,0.04772,True
+M7 DKT-time,"after correct, lag 14-30d",3244,0.04481,True
+M7 DKT-time,"after correct, lag 30-90d",6404,0.03712,True
+M7 DKT-time,"after correct, lag >90d",16787,0.02087,True
+M7 DKT-time,"after error, lag <1h",33,0.14887,True
+M7 DKT-time,"after error, lag 1-6h",56,0.12805,True
+M7 DKT-time,"after error, lag 6-24h",128,0.11447,True
+M7 DKT-time,"after error, lag 1-3d",248,0.10170,True
+M7 DKT-time,"after error, lag 3-7d",359,0.09246,True
+M7 DKT-time,"after error, lag 7-14d",526,0.07728,True
+M7 DKT-time,"after error, lag 14-30d",921,0.07231,True
+M7 DKT-time,"after error, lag 30-90d",1789,0.05567,True
+M7 DKT-time,"after error, lag >90d",5307,0.03184,True
+M7 SAKT,all,40000,-0.00002,True
+M7 SAKT,lag <1h,128,-0.00127,True
+M7 SAKT,lag 1-6h,192,-0.00254,True
+M7 SAKT,lag 6-24h,458,-0.00015,True
+M7 SAKT,lag 1-3d,1030,-0.00011,True
+M7 SAKT,lag 3-7d,1508,-0.00006,True
+M7 SAKT,lag 7-14d,2232,-0.00000,True
+M7 SAKT,lag 14-30d,4165,-0.00000,True
+M7 SAKT,lag 30-90d,8193,-0.00000,True
+M7 SAKT,lag >90d,22094,-0.00000,True
+M7 SAKT,"after correct, lag <1h",95,-0.00034,True
+M7 SAKT,"after correct, lag 1-6h",136,-0.00010,True
+M7 SAKT,"after correct, lag 6-24h",330,0.00037,True
+M7 SAKT,"after correct, lag 1-3d",782,0.00000,True
+M7 SAKT,"after correct, lag 3-7d",1149,-0.00001,True
+M7 SAKT,"after correct, lag 7-14d",1706,0.00005,True
+M7 SAKT,"after correct, lag 14-30d",3244,0.00000,True
+M7 SAKT,"after correct, lag 30-90d",6404,-0.00000,True
+M7 SAKT,"after correct, lag >90d",16787,-0.00000,True
+M7 SAKT,"after error, lag <1h",33,-0.00393,True
+M7 SAKT,"after error, lag 1-6h",56,-0.00847,True
+M7 SAKT,"after error, lag 6-24h",128,-0.00149,True
+M7 SAKT,"after error, lag 1-3d",248,-0.00045,True
+M7 SAKT,"after error, lag 3-7d",359,-0.00022,True
+M7 SAKT,"after error, lag 7-14d",526,-0.00016,True
+M7 SAKT,"after error, lag 14-30d",921,-0.00002,True
+M7 SAKT,"after error, lag 30-90d",1789,-0.00000,True
+M7 SAKT,"after error, lag >90d",5307,-0.00001,True

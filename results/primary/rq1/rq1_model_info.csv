@@ -1,0 +1,13 @@
+spec,estimator,n,clusters,iters
+A seen,E1 learner-game FE + item FE,2572193,18484,1821
+A seen,E2 learner-day FE + item FE,2573325,18484,349
+A seen,E3 learner-game FE + item difficulty,2572240,18484,1
+B lag,E1 learner-game FE + item FE,2572193,18484,1821
+B lag,E2 learner-day FE + item FE,2573325,18484,349
+B lag,E3 learner-game FE + item difficulty,2572240,18484,1
+C lag x prev,E1 learner-game FE + item FE,2572193,18484,1821
+C lag x prev,E2 learner-day FE + item FE,2573325,18484,349
+C lag x prev,E3 learner-game FE + item difficulty,2572240,18484,1
+D games,E1 learner-game FE + item FE,2572193,18484,1821
+D games,E2 learner-day FE + item FE,2573325,18484,349
+D games,E3 learner-game FE + item difficulty,2572240,18484,1

@@ -1,0 +1,7 @@
+reference,model,dAUC,dAUC_lo,dAUC_hi,d_rmse,d_rmse_lo,d_rmse_hi,P_model_more_consistent
+M5 GBM (all features),M5a GBM without memory features,-0.00346,-0.00419,-0.00278,0.01836,0.01270,0.02080,0.00000
+M5 GBM (all features),M6b DAS3H + item windows,-0.00962,-0.01136,-0.00808,-0.00087,-0.00562,0.00753,0.58600
+M5 GBM (all features),M7 DKT-time,-0.01529,-0.01689,-0.01353,0.00657,-0.00145,0.01264,0.05600
+M6b DAS3H + item windows,M5 GBM (all features),0.00962,0.00808,0.01136,0.00087,-0.00753,0.00562,0.41400
+M6b DAS3H + item windows,M5a GBM without memory features,0.00615,0.00447,0.00822,0.01923,0.00660,0.02496,0.00200
+M6b DAS3H + item windows,M7 DKT-time,-0.00567,-0.00785,-0.00326,0.00744,0.00249,0.01178,0.00000

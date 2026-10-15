@@ -1,0 +1,3 @@
+term,coef,se,ci_low,ci_high,subset,n,clusters,iters
+seen,0.03193,0.00217,0.02767,0.03619,not high_volume,2241926,18466,1824
+seen,0.05163,0.00597,0.03993,0.06333,cohort 2025+,680128,8379,1038

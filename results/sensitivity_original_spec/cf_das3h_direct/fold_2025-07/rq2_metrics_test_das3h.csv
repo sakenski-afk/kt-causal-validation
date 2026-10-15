@@ -1,0 +1,2 @@
+model,n,AUC,RMSE,LogLoss,ECE
+M6b DAS3H + item windows,410796,0.8122,0.4148,0.5132,0.0178

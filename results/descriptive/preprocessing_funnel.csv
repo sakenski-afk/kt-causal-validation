@@ -1,0 +1,18 @@
+step,n
+games in export,1819931
+P2 player-games of human players (all games),2658901
+P3a player-games with round records,1973458
+P3b player-games: player answered all 15 questions,1112057
+"P4 human-vs-human complete games, consistent outcome",532937
+KC-level responses,16680855
+P5a round-5 responses with stored question ids,3336171
+"P5b id present in bank, category consistent",3322311
+item-level responses (final),3322311
+distinct items,31523
+items with >= 30 responses,22315
+human players with >= 1 complete player-game,21270
+  of them registered 2025+ (history_complete),10248
+"KC responses, history_complete",4679265
+"item responses, history_complete",931681
+accounts excluded as non-human,18
+human accounts flagged high_volume,21

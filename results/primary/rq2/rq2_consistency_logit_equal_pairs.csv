@@ -1,0 +1,19 @@
+group,reference,model,d_rmse,lo,hi,P_model_better
+all,M5 GBM (all features),M6b DAS3H + item windows,0.1160,-0.0024,0.2143,0.0340
+all,M5 GBM (all features),M7 DKT-time,0.0040,-0.0346,0.0506,0.3480
+all,M5 GBM (all features),"no item path (M5a, PFA, Elo, DKT, SAKT)",0.3411,0.3019,0.3613,0.0000
+all,M6b DAS3H + item windows,M5 GBM (all features),-0.1160,-0.2143,0.0024,0.9660
+all,M6b DAS3H + item windows,M7 DKT-time,-0.1120,-0.1822,0.0024,0.9720
+all,M6b DAS3H + item windows,"no item path (M5a, PFA, Elo, DKT, SAKT)",0.2251,0.0976,0.3493,0.0000
+after correct,M5 GBM (all features),M6b DAS3H + item windows,-0.3137,-0.3545,-0.1691,1.0000
+after correct,M5 GBM (all features),M7 DKT-time,-0.0758,-0.1461,0.0382,0.8560
+after correct,M5 GBM (all features),"no item path (M5a, PFA, Elo, DKT, SAKT)",0.5003,0.4454,0.5451,0.0000
+after correct,M6b DAS3H + item windows,M5 GBM (all features),0.3137,0.1691,0.3545,0.0000
+after correct,M6b DAS3H + item windows,M7 DKT-time,0.2379,0.0713,0.3035,0.0040
+after correct,M6b DAS3H + item windows,"no item path (M5a, PFA, Elo, DKT, SAKT)",0.8140,0.6406,0.8472,0.0000
+after error,M5 GBM (all features),M6b DAS3H + item windows,-0.0955,-0.1405,-0.0191,0.9900
+after error,M5 GBM (all features),M7 DKT-time,0.4151,0.3049,0.4746,0.0000
+after error,M5 GBM (all features),"no item path (M5a, PFA, Elo, DKT, SAKT)",0.2697,0.2114,0.2889,0.0000
+after error,M6b DAS3H + item windows,M5 GBM (all features),0.0955,0.0191,0.1405,0.0100
+after error,M6b DAS3H + item windows,M7 DKT-time,0.5106,0.4015,0.5417,0.0000
+after error,M6b DAS3H + item windows,"no item path (M5a, PFA, Elo, DKT, SAKT)",0.3652,0.2704,0.3858,0.0000

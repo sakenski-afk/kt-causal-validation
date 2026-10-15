@@ -1,0 +1,397 @@
+model,subset,bin,mean_pred,obs,n
+M1 Item difficulty,all,3,0.17852,0.22266,503
+M1 Item difficulty,all,4,0.23041,0.25513,2289
+M1 Item difficulty,all,5,0.28009,0.29401,8299
+M1 Item difficulty,all,6,0.32851,0.34216,16688
+M1 Item difficulty,all,7,0.37639,0.38515,28890
+M1 Item difficulty,all,8,0.42599,0.41913,40212
+M1 Item difficulty,all,9,0.47455,0.47767,46363
+M1 Item difficulty,all,10,0.52453,0.52477,51821
+M1 Item difficulty,all,11,0.57598,0.58305,53915
+M1 Item difficulty,all,12,0.62404,0.62483,43940
+M1 Item difficulty,all,13,0.67458,0.68436,37261
+M1 Item difficulty,all,14,0.72394,0.72847,31846
+M1 Item difficulty,all,15,0.77389,0.78552,26431
+M1 Item difficulty,all,16,0.82469,0.83096,23474
+M1 Item difficulty,all,17,0.87492,0.88018,16275
+M1 Item difficulty,all,18,0.92131,0.92507,11851
+M1 Item difficulty,all,19,0.95872,0.94315,1284
+M1 Item difficulty,re-exposures,4,0.22978,0.36571,350
+M1 Item difficulty,re-exposures,5,0.28038,0.43174,1443
+M1 Item difficulty,re-exposures,6,0.32873,0.51903,3127
+M1 Item difficulty,re-exposures,7,0.37648,0.58123,5583
+M1 Item difficulty,re-exposures,8,0.42649,0.63381,8228
+M1 Item difficulty,re-exposures,9,0.47472,0.70889,10137
+M1 Item difficulty,re-exposures,10,0.52436,0.75651,11705
+M1 Item difficulty,re-exposures,11,0.57545,0.80075,12241
+M1 Item difficulty,re-exposures,12,0.62370,0.82914,10880
+M1 Item difficulty,re-exposures,13,0.67451,0.86679,9301
+M1 Item difficulty,re-exposures,14,0.72410,0.88316,8259
+M1 Item difficulty,re-exposures,15,0.77388,0.89984,6779
+M1 Item difficulty,re-exposures,16,0.82493,0.91821,6492
+M1 Item difficulty,re-exposures,17,0.87504,0.93895,4521
+M1 Item difficulty,re-exposures,18,0.92129,0.95270,3383
+M1 Item difficulty,re-exposures,19,0.95843,0.95225,356
+M2 IRT-1PL,all,1,0.08393,0.20734,2262
+M2 IRT-1PL,all,2,0.12823,0.22650,8618
+M2 IRT-1PL,all,3,0.17697,0.26209,15678
+M2 IRT-1PL,all,4,0.22581,0.27759,20307
+M2 IRT-1PL,all,5,0.27555,0.30832,24481
+M2 IRT-1PL,all,6,0.32533,0.34466,27984
+M2 IRT-1PL,all,7,0.37523,0.39174,32486
+M2 IRT-1PL,all,8,0.42459,0.43610,28241
+M2 IRT-1PL,all,9,0.47494,0.48409,27468
+M2 IRT-1PL,all,10,0.52493,0.53249,26119
+M2 IRT-1PL,all,11,0.57506,0.57788,25372
+M2 IRT-1PL,all,12,0.62483,0.64023,25044
+M2 IRT-1PL,all,13,0.67474,0.69306,25487
+M2 IRT-1PL,all,14,0.72558,0.75078,26069
+M2 IRT-1PL,all,15,0.77506,0.79739,25680
+M2 IRT-1PL,all,16,0.82511,0.84635,26574
+M2 IRT-1PL,all,17,0.87505,0.89044,26780
+M2 IRT-1PL,all,18,0.92499,0.93198,27111
+M2 IRT-1PL,all,19,0.97169,0.96566,19569
+M2 IRT-1PL,re-exposures,2,0.13069,0.23697,211
+M2 IRT-1PL,re-exposures,3,0.17753,0.28125,448
+M2 IRT-1PL,re-exposures,4,0.22745,0.31233,746
+M2 IRT-1PL,re-exposures,5,0.27679,0.34841,1194
+M2 IRT-1PL,re-exposures,6,0.32658,0.39842,1772
+M2 IRT-1PL,re-exposures,7,0.37601,0.44308,2354
+M2 IRT-1PL,re-exposures,8,0.42618,0.48445,2894
+M2 IRT-1PL,re-exposures,9,0.47607,0.52498,3663
+M2 IRT-1PL,re-exposures,10,0.52576,0.58427,4361
+M2 IRT-1PL,re-exposures,11,0.57571,0.62754,5077
+M2 IRT-1PL,re-exposures,12,0.62578,0.69155,6257
+M2 IRT-1PL,re-exposures,13,0.67549,0.73847,7326
+M2 IRT-1PL,re-exposures,14,0.72617,0.80136,8684
+M2 IRT-1PL,re-exposures,15,0.77553,0.83853,9791
+M2 IRT-1PL,re-exposures,16,0.82537,0.87518,11160
+M2 IRT-1PL,re-exposures,17,0.87533,0.90817,12295
+M2 IRT-1PL,re-exposures,18,0.92557,0.94121,13795
+M2 IRT-1PL,re-exposures,19,0.97141,0.96928,10809
+M3 PFA,all,0,0.04115,0.18815,287
+M3 PFA,all,1,0.08061,0.20362,3153
+M3 PFA,all,2,0.12778,0.22527,8483
+M3 PFA,all,3,0.17663,0.23642,14119
+M3 PFA,all,4,0.22584,0.25860,18917
+M3 PFA,all,5,0.27543,0.28518,22046
+M3 PFA,all,6,0.32516,0.30897,24546
+M3 PFA,all,7,0.37511,0.34639,25786
+M3 PFA,all,8,0.42479,0.43457,31608
+M3 PFA,all,9,0.47497,0.43361,25786
+M3 PFA,all,10,0.52491,0.48480,25074
+M3 PFA,all,11,0.57504,0.53494,24911
+M3 PFA,all,12,0.62483,0.60177,24453
+M3 PFA,all,13,0.67483,0.66778,24526
+M3 PFA,all,14,0.72498,0.72702,24544
+M3 PFA,all,15,0.77528,0.78263,24580
+M3 PFA,all,16,0.82531,0.84007,26318
+M3 PFA,all,17,0.87554,0.89278,28316
+M3 PFA,all,18,0.92559,0.93450,31406
+M3 PFA,all,19,0.97339,0.97047,32539
+M3 PFA,re-exposures,3,0.17798,0.27410,332
+M3 PFA,re-exposures,4,0.22686,0.27243,602
+M3 PFA,re-exposures,5,0.27713,0.28599,1021
+M3 PFA,re-exposures,6,0.32594,0.33053,1425
+M3 PFA,re-exposures,7,0.37660,0.36912,1956
+M3 PFA,re-exposures,8,0.42575,0.51122,3386
+M3 PFA,re-exposures,9,0.47583,0.46068,2963
+M3 PFA,re-exposures,10,0.52532,0.50084,3558
+M3 PFA,re-exposures,11,0.57539,0.54819,4150
+M3 PFA,re-exposures,12,0.62533,0.61841,4704
+M3 PFA,re-exposures,13,0.67546,0.66967,5437
+M3 PFA,re-exposures,14,0.72554,0.74532,6416
+M3 PFA,re-exposures,15,0.77581,0.78950,7563
+M3 PFA,re-exposures,16,0.82611,0.84386,9517
+M3 PFA,re-exposures,17,0.87639,0.89503,11918
+M3 PFA,re-exposures,18,0.92634,0.93166,16023
+M3 PFA,re-exposures,19,0.97452,0.96907,21761
+M4 Elo (online),all,0,0.03509,0.23402,4162
+M4 Elo (online),all,1,0.07704,0.23441,12602
+M4 Elo (online),all,2,0.12584,0.26545,16956
+M4 Elo (online),all,3,0.17549,0.28185,19244
+M4 Elo (online),all,4,0.22504,0.30676,20234
+M4 Elo (online),all,5,0.27503,0.33356,20581
+M4 Elo (online),all,6,0.32501,0.35859,20341
+M4 Elo (online),all,7,0.37502,0.38577,20533
+M4 Elo (online),all,8,0.42504,0.41881,19983
+M4 Elo (online),all,9,0.47504,0.45162,20154
+M4 Elo (online),all,10,0.52479,0.49142,19930
+M4 Elo (online),all,11,0.57481,0.52635,20114
+M4 Elo (online),all,12,0.62530,0.57582,20642
+M4 Elo (online),all,13,0.67514,0.62410,20878
+M4 Elo (online),all,14,0.72502,0.66619,21863
+M4 Elo (online),all,15,0.77543,0.72177,23326
+M4 Elo (online),all,16,0.82548,0.77725,25410
+M4 Elo (online),all,17,0.87569,0.84194,29129
+M4 Elo (online),all,18,0.92620,0.90135,35926
+M4 Elo (online),all,19,0.97575,0.96301,49390
+M4 Elo (online),re-exposures,1,0.07930,0.25926,378
+M4 Elo (online),re-exposures,2,0.12708,0.28075,748
+M4 Elo (online),re-exposures,3,0.17642,0.29195,1168
+M4 Elo (online),re-exposures,4,0.22506,0.32876,1457
+M4 Elo (online),re-exposures,5,0.27585,0.36631,1698
+M4 Elo (online),re-exposures,6,0.32557,0.42291,2121
+M4 Elo (online),re-exposures,7,0.37566,0.42550,2235
+M4 Elo (online),re-exposures,8,0.42559,0.46387,2602
+M4 Elo (online),re-exposures,9,0.47537,0.50073,2748
+M4 Elo (online),re-exposures,10,0.52513,0.54763,3128
+M4 Elo (online),re-exposures,11,0.57519,0.58257,3615
+M4 Elo (online),re-exposures,12,0.62590,0.63793,4060
+M4 Elo (online),re-exposures,13,0.67564,0.69515,4458
+M4 Elo (online),re-exposures,14,0.72542,0.73514,5248
+M4 Elo (online),re-exposures,15,0.77605,0.78017,6264
+M4 Elo (online),re-exposures,16,0.82598,0.83083,7584
+M4 Elo (online),re-exposures,17,0.87632,0.88521,10227
+M4 Elo (online),re-exposures,18,0.92713,0.92691,15131
+M4 Elo (online),re-exposures,19,0.97743,0.97050,27934
+M5 GBM (all features),all,3,0.18630,0.19574,6999
+M5 GBM (all features),all,4,0.22771,0.23437,31958
+M5 GBM (all features),all,5,0.27489,0.27715,41227
+M5 GBM (all features),all,6,0.32425,0.32566,35801
+M5 GBM (all features),all,7,0.37449,0.38101,30222
+M5 GBM (all features),all,8,0.42434,0.42748,26523
+M5 GBM (all features),all,9,0.47454,0.48151,23337
+M5 GBM (all features),all,10,0.52462,0.53462,20912
+M5 GBM (all features),all,11,0.57475,0.57878,19408
+M5 GBM (all features),all,12,0.62485,0.62865,18379
+M5 GBM (all features),all,13,0.67514,0.67814,18160
+M5 GBM (all features),all,14,0.72514,0.72851,18483
+M5 GBM (all features),all,15,0.77517,0.77610,19853
+M5 GBM (all features),all,16,0.82540,0.82780,21853
+M5 GBM (all features),all,17,0.87608,0.88276,26979
+M5 GBM (all features),all,18,0.92664,0.93121,37736
+M5 GBM (all features),all,19,0.97089,0.97320,43435
+M5 GBM (all features),re-exposures,3,0.18239,0.19256,618
+M5 GBM (all features),re-exposures,4,0.22736,0.26738,1496
+M5 GBM (all features),re-exposures,5,0.27621,0.31001,2258
+M5 GBM (all features),re-exposures,6,0.32544,0.35187,2805
+M5 GBM (all features),re-exposures,7,0.37505,0.38763,3266
+M5 GBM (all features),re-exposures,8,0.42425,0.43460,3150
+M5 GBM (all features),re-exposures,9,0.47457,0.48011,3041
+M5 GBM (all features),re-exposures,10,0.52490,0.54428,2789
+M5 GBM (all features),re-exposures,11,0.57539,0.56696,2748
+M5 GBM (all features),re-exposures,12,0.62527,0.61942,2914
+M5 GBM (all features),re-exposures,13,0.67591,0.65998,3191
+M5 GBM (all features),re-exposures,14,0.72594,0.70614,3944
+M5 GBM (all features),re-exposures,15,0.77637,0.76695,4883
+M5 GBM (all features),re-exposures,16,0.82618,0.82131,6777
+M5 GBM (all features),re-exposures,17,0.87727,0.88019,11193
+M5 GBM (all features),re-exposures,18,0.92745,0.93263,19758
+M5 GBM (all features),re-exposures,19,0.97203,0.97407,27997
+M5a GBM without memory features,all,3,0.18692,0.19425,6152
+M5a GBM without memory features,all,4,0.22764,0.23176,31753
+M5a GBM without memory features,all,5,0.27502,0.27729,39969
+M5a GBM without memory features,all,6,0.32419,0.32749,35497
+M5a GBM without memory features,all,7,0.37449,0.37666,29520
+M5a GBM without memory features,all,8,0.42444,0.42675,26186
+M5a GBM without memory features,all,9,0.47459,0.48207,23625
+M5a GBM without memory features,all,10,0.52452,0.52650,21223
+M5a GBM without memory features,all,11,0.57461,0.58124,20403
+M5a GBM without memory features,all,12,0.62506,0.62741,19979
+M5a GBM without memory features,all,13,0.67524,0.67950,19825
+M5a GBM without memory features,all,14,0.72499,0.72962,19876
+M5a GBM without memory features,all,15,0.77514,0.77722,21389
+M5a GBM without memory features,all,16,0.82543,0.83319,23482
+M5a GBM without memory features,all,17,0.87565,0.88545,26704
+M5a GBM without memory features,all,18,0.92658,0.92911,34798
+M5a GBM without memory features,all,19,0.97064,0.97301,40975
+M5a GBM without memory features,re-exposures,4,0.22843,0.23856,1027
+M5a GBM without memory features,re-exposures,5,0.27609,0.31849,1796
+M5a GBM without memory features,re-exposures,6,0.32544,0.36422,2331
+M5a GBM without memory features,re-exposures,7,0.37556,0.39680,2684
+M5a GBM without memory features,re-exposures,8,0.42523,0.45251,2948
+M5a GBM without memory features,re-exposures,9,0.47527,0.48201,3280
+M5a GBM without memory features,re-exposures,10,0.52503,0.52960,3480
+M5a GBM without memory features,re-exposures,11,0.57522,0.59359,3745
+M5a GBM without memory features,re-exposures,12,0.62576,0.63201,4367
+M5a GBM without memory features,re-exposures,13,0.67561,0.68750,4960
+M5a GBM without memory features,re-exposures,14,0.72506,0.73015,5403
+M5a GBM without memory features,re-exposures,15,0.77551,0.78428,6462
+M5a GBM without memory features,re-exposures,16,0.82626,0.84121,8086
+M5a GBM without memory features,re-exposures,17,0.87582,0.89456,10726
+M5a GBM without memory features,re-exposures,18,0.92738,0.93091,16485
+M5a GBM without memory features,re-exposures,19,0.97171,0.97445,24897
+M6 DAS3H,all,1,0.08234,0.20808,2004
+M6 DAS3H,all,2,0.12878,0.22027,6987
+M6 DAS3H,all,3,0.17717,0.23380,14042
+M6 DAS3H,all,4,0.22587,0.25094,19770
+M6 DAS3H,all,5,0.27548,0.28592,24105
+M6 DAS3H,all,6,0.32507,0.31498,26243
+M6 DAS3H,all,7,0.37486,0.35900,26914
+M6 DAS3H,all,8,0.42411,0.41011,28439
+M6 DAS3H,all,9,0.47481,0.44669,25754
+M6 DAS3H,all,10,0.52478,0.49749,24923
+M6 DAS3H,all,11,0.57500,0.55740,24627
+M6 DAS3H,all,12,0.62491,0.60890,24439
+M6 DAS3H,all,13,0.67502,0.66250,24169
+M6 DAS3H,all,14,0.72507,0.71551,24493
+M6 DAS3H,all,15,0.77507,0.77531,25026
+M6 DAS3H,all,16,0.82543,0.83540,27364
+M6 DAS3H,all,17,0.87554,0.88681,28756
+M6 DAS3H,all,18,0.92543,0.93253,32697
+M6 DAS3H,all,19,0.97243,0.96786,30491
+M6 DAS3H,re-exposures,2,0.12731,0.25000,200
+M6 DAS3H,re-exposures,3,0.17701,0.24449,454
+M6 DAS3H,re-exposures,4,0.22722,0.27034,762
+M6 DAS3H,re-exposures,5,0.27658,0.31710,1088
+M6 DAS3H,re-exposures,6,0.32591,0.34399,1564
+M6 DAS3H,re-exposures,7,0.37582,0.40020,1979
+M6 DAS3H,re-exposures,8,0.42548,0.46804,2613
+M6 DAS3H,re-exposures,9,0.47541,0.46933,2934
+M6 DAS3H,re-exposures,10,0.52575,0.52061,3494
+M6 DAS3H,re-exposures,11,0.57553,0.59478,4289
+M6 DAS3H,re-exposures,12,0.62546,0.62484,4782
+M6 DAS3H,re-exposures,13,0.67574,0.68112,5419
+M6 DAS3H,re-exposures,14,0.72593,0.72863,6585
+M6 DAS3H,re-exposures,15,0.77579,0.78697,7891
+M6 DAS3H,re-exposures,16,0.82612,0.84921,10306
+M6 DAS3H,re-exposures,17,0.87630,0.89843,12514
+M6 DAS3H,re-exposures,18,0.92607,0.93473,16776
+M6 DAS3H,re-exposures,19,0.97324,0.96771,19171
+M6b DAS3H + item windows,all,1,0.08223,0.20411,2386
+M6b DAS3H + item windows,all,2,0.12812,0.22120,7961
+M6b DAS3H + item windows,all,3,0.17704,0.23766,15421
+M6b DAS3H + item windows,all,4,0.22580,0.25693,21076
+M6b DAS3H + item windows,all,5,0.27539,0.29097,25738
+M6b DAS3H + item windows,all,6,0.32511,0.32148,26947
+M6b DAS3H + item windows,all,7,0.37481,0.36163,27285
+M6b DAS3H + item windows,all,8,0.42400,0.40672,28051
+M6b DAS3H + item windows,all,9,0.47483,0.45248,25325
+M6b DAS3H + item windows,all,10,0.52487,0.50372,23628
+M6b DAS3H + item windows,all,11,0.57519,0.55503,22941
+M6b DAS3H + item windows,all,12,0.62482,0.60623,22541
+M6b DAS3H + item windows,all,13,0.67496,0.66374,22123
+M6b DAS3H + item windows,all,14,0.72496,0.72145,22111
+M6b DAS3H + item windows,all,15,0.77510,0.77117,22488
+M6b DAS3H + item windows,all,16,0.82524,0.82890,23904
+M6b DAS3H + item windows,all,17,0.87567,0.87868,26632
+M6b DAS3H + item windows,all,18,0.92616,0.92575,33146
+M6b DAS3H + item windows,all,19,0.97498,0.96541,41540
+M6b DAS3H + item windows,re-exposures,1,0.08108,0.22796,465
+M6b DAS3H + item windows,re-exposures,2,0.12707,0.24412,1020
+M6b DAS3H + item windows,re-exposures,3,0.17595,0.28753,1572
+M6b DAS3H + item windows,re-exposures,4,0.22551,0.32051,1872
+M6b DAS3H + item windows,re-exposures,5,0.27508,0.35335,2032
+M6b DAS3H + item windows,re-exposures,6,0.32519,0.37601,2101
+M6b DAS3H + item windows,re-exposures,7,0.37482,0.40828,2126
+M6b DAS3H + item windows,re-exposures,8,0.42547,0.43134,2221
+M6b DAS3H + item windows,re-exposures,9,0.47507,0.51354,2253
+M6b DAS3H + item windows,re-exposures,10,0.52557,0.51911,2433
+M6b DAS3H + item windows,re-exposures,11,0.57524,0.55366,2637
+M6b DAS3H + item windows,re-exposures,12,0.62548,0.61016,2873
+M6b DAS3H + item windows,re-exposures,13,0.67584,0.65713,3287
+M6b DAS3H + item windows,re-exposures,14,0.72608,0.72695,4175
+M6b DAS3H + item windows,re-exposures,15,0.77613,0.76343,5250
+M6b DAS3H + item windows,re-exposures,16,0.82627,0.82244,7040
+M6b DAS3H + item windows,re-exposures,17,0.87689,0.86800,10697
+M6b DAS3H + item windows,re-exposures,18,0.92737,0.92212,17874
+M6b DAS3H + item windows,re-exposures,19,0.97642,0.96431,30901
+M7 DKT-time,all,1,0.08348,0.19109,1324
+M7 DKT-time,all,2,0.12986,0.19611,6583
+M7 DKT-time,all,3,0.17762,0.22058,15967
+M7 DKT-time,all,4,0.22613,0.25733,24572
+M7 DKT-time,all,5,0.27535,0.29340,29121
+M7 DKT-time,all,6,0.32483,0.32969,30071
+M7 DKT-time,all,7,0.37470,0.37530,28359
+M7 DKT-time,all,8,0.42475,0.42531,26035
+M7 DKT-time,all,9,0.47469,0.48041,24242
+M7 DKT-time,all,10,0.52473,0.52717,22215
+M7 DKT-time,all,11,0.57480,0.57241,21025
+M7 DKT-time,all,12,0.62481,0.61634,20753
+M7 DKT-time,all,13,0.67491,0.67205,20125
+M7 DKT-time,all,14,0.72520,0.71792,20285
+M7 DKT-time,all,15,0.77517,0.76161,21511
+M7 DKT-time,all,16,0.82555,0.80866,22677
+M7 DKT-time,all,17,0.87573,0.85678,26023
+M7 DKT-time,all,18,0.92617,0.90938,32135
+M7 DKT-time,all,19,0.97656,0.96116,48322
+M7 DKT-time,re-exposures,3,0.17953,0.20388,206
+M7 DKT-time,re-exposures,4,0.22893,0.24361,509
+M7 DKT-time,re-exposures,5,0.27712,0.30094,1060
+M7 DKT-time,re-exposures,6,0.32643,0.33166,1794
+M7 DKT-time,re-exposures,7,0.37616,0.38089,2355
+M7 DKT-time,re-exposures,8,0.42578,0.41892,2843
+M7 DKT-time,re-exposures,9,0.47537,0.48932,3231
+M7 DKT-time,re-exposures,10,0.52566,0.53170,3549
+M7 DKT-time,re-exposures,11,0.57559,0.57583,3930
+M7 DKT-time,re-exposures,12,0.62516,0.61995,4231
+M7 DKT-time,re-exposures,13,0.67553,0.67836,4816
+M7 DKT-time,re-exposures,14,0.72555,0.72166,5389
+M7 DKT-time,re-exposures,15,0.77578,0.77115,6454
+M7 DKT-time,re-exposures,16,0.82602,0.81249,7861
+M7 DKT-time,re-exposures,17,0.87631,0.86099,10352
+M7 DKT-time,re-exposures,18,0.92699,0.91489,14898
+M7 DKT-time,re-exposures,19,0.97794,0.96618,29336
+M7 DKT,all,1,0.08269,0.19925,1867
+M7 DKT,all,2,0.12929,0.20118,7630
+M7 DKT,all,3,0.17735,0.23083,16415
+M7 DKT,all,4,0.22609,0.26078,24189
+M7 DKT,all,5,0.27528,0.29927,28737
+M7 DKT,all,6,0.32486,0.33212,29513
+M7 DKT,all,7,0.37466,0.37766,27731
+M7 DKT,all,8,0.42453,0.42052,25535
+M7 DKT,all,9,0.47467,0.47108,23635
+M7 DKT,all,10,0.52496,0.52170,21844
+M7 DKT,all,11,0.57496,0.56889,20714
+M7 DKT,all,12,0.62504,0.61785,20118
+M7 DKT,all,13,0.67498,0.66760,19907
+M7 DKT,all,14,0.72510,0.71163,19940
+M7 DKT,all,15,0.77517,0.74926,20974
+M7 DKT,all,16,0.82558,0.80300,22985
+M7 DKT,all,17,0.87568,0.85380,26102
+M7 DKT,all,18,0.92633,0.90472,33135
+M7 DKT,all,19,0.97651,0.95910,50272
+M7 DKT,re-exposures,2,0.12973,0.20761,289
+M7 DKT,re-exposures,3,0.17787,0.30147,680
+M7 DKT,re-exposures,4,0.22705,0.31850,1146
+M7 DKT,re-exposures,5,0.27571,0.34160,1733
+M7 DKT,re-exposures,6,0.32566,0.38653,2168
+M7 DKT,re-exposures,7,0.37573,0.45897,2547
+M7 DKT,re-exposures,8,0.42529,0.46541,2920
+M7 DKT,re-exposures,9,0.47555,0.53034,3181
+M7 DKT,re-exposures,10,0.52564,0.56071,3426
+M7 DKT,re-exposures,11,0.57564,0.60366,3666
+M7 DKT,re-exposures,12,0.62563,0.63641,4208
+M7 DKT,re-exposures,13,0.67555,0.69640,4608
+M7 DKT,re-exposures,14,0.72525,0.73800,5290
+M7 DKT,re-exposures,15,0.77566,0.77437,6165
+M7 DKT,re-exposures,16,0.82611,0.82895,7635
+M7 DKT,re-exposures,17,0.87636,0.87145,9973
+M7 DKT,re-exposures,18,0.92703,0.91294,14897
+M7 DKT,re-exposures,19,0.97762,0.96709,28260
+M7 SAKT,all,2,0.14025,0.18411,793
+M7 SAKT,all,3,0.18162,0.21540,11430
+M7 SAKT,all,4,0.22664,0.24840,27323
+M7 SAKT,all,5,0.27491,0.28706,33174
+M7 SAKT,all,6,0.32458,0.32874,31155
+M7 SAKT,all,7,0.37443,0.37439,28430
+M7 SAKT,all,8,0.42458,0.41974,25192
+M7 SAKT,all,9,0.47482,0.46758,23337
+M7 SAKT,all,10,0.52481,0.51552,21582
+M7 SAKT,all,11,0.57493,0.56285,20574
+M7 SAKT,all,12,0.62483,0.60496,20246
+M7 SAKT,all,13,0.67523,0.65363,20042
+M7 SAKT,all,14,0.72506,0.69663,20546
+M7 SAKT,all,15,0.77522,0.74308,21991
+M7 SAKT,all,16,0.82568,0.79157,24382
+M7 SAKT,all,17,0.87604,0.84488,29275
+M7 SAKT,all,18,0.92671,0.90577,39572
+M7 SAKT,all,19,0.96929,0.95986,42354
+M7 SAKT,re-exposures,3,0.18203,0.24931,361
+M7 SAKT,re-exposures,4,0.22734,0.30000,1100
+M7 SAKT,re-exposures,5,0.27580,0.34797,1753
+M7 SAKT,re-exposures,6,0.32549,0.37823,2205
+M7 SAKT,re-exposures,7,0.37544,0.44501,2537
+M7 SAKT,re-exposures,8,0.42497,0.48134,2680
+M7 SAKT,re-exposures,9,0.47567,0.51644,3042
+M7 SAKT,re-exposures,10,0.52506,0.55473,3234
+M7 SAKT,re-exposures,11,0.57556,0.59877,3584
+M7 SAKT,re-exposures,12,0.62488,0.63812,3993
+M7 SAKT,re-exposures,13,0.67572,0.67730,4419
+M7 SAKT,re-exposures,14,0.72552,0.73097,5096
+M7 SAKT,re-exposures,15,0.77591,0.76677,6097
+M7 SAKT,re-exposures,16,0.82663,0.81040,8096
+M7 SAKT,re-exposures,17,0.87685,0.86089,10977
+M7 SAKT,re-exposures,18,0.92765,0.91397,18390
+M7 SAKT,re-exposures,19,0.97021,0.96440,25279

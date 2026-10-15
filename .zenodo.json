@@ -1,0 +1,48 @@
+{
+  "title": "Code and aggregated results for: Causal Validation of Knowledge-Tracing Models with Naturally Randomized Item Exposure in Game-Based Learning",
+  "upload_type": "software",
+  "version": "1.0.0",
+  "description": "Analysis code (Python) and aggregated results for the article 'Causal Validation of Knowledge-Tracing Models with Naturally Randomized Item Exposure in Game-Based Learning' (Machine Learning and Knowledge Extraction, submitted). The study uses a natural experiment in the logs of a game-based quiz platform to estimate the causal effect of a previous encounter with an item and its decay over time, and compares the effects implied by fourteen knowledge-tracing models with this reference. The response data are not included because they contain records of minors; the repository contains all scripts and only aggregated outputs (effect estimates, covariance matrices, model-implied curves, metrics and bootstrap summaries) without learner, game or item identifiers.",
+  "access_right": "open",
+  "license": "mit",
+  "keywords": [
+    "knowledge tracing",
+    "causal inference",
+    "natural experiment",
+    "model evaluation",
+    "counterfactual evaluation",
+    "forgetting",
+    "game-based learning",
+    "educational data mining"
+  ],
+  "creators": [
+    {
+      "name": "Kulatay, Aibolat",
+      "affiliation": "Al-Farabi Kazakh National University"
+    },
+    {
+      "name": "Zhaisanova, Dinara",
+      "affiliation": "Al-Farabi Kazakh National University"
+    },
+    {
+      "name": "Kulambayev, Bakhytzhan",
+      "affiliation": "Turan University"
+    },
+    {
+      "name": "Mambetov, Saken",
+      "affiliation": "Turan University"
+    },
+    {
+      "name": "Zhaksylyk, Almash",
+      "affiliation": "Satbayev University"
+    },
+    {
+      "name": "Karataeva, Zhanbubi",
+      "affiliation": "Almaty Technological University"
+    },
+    {
+      "name": "Skakova, Aigul",
+      "affiliation": "Nur-Mubarak University"
+    }
+  ]
+}

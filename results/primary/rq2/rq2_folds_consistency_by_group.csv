@@ -1,0 +1,10 @@
+group,model,rmse_pp,share_of_reexposures
+all,M5 GBM (all features),0.7178,1.0000
+all,M6b DAS3H + item windows,0.7177,1.0000
+all,M7 DKT-time,1.5440,1.0000
+after correct,M5 GBM (all features),2.1464,0.7814
+after correct,M6b DAS3H + item windows,0.6195,0.7814
+after correct,M7 DKT-time,3.9718,0.7814
+after error,M5 GBM (all features),1.4818,0.2186
+after error,M6b DAS3H + item windows,2.0771,0.2186
+after error,M7 DKT-time,14.7531,0.2186

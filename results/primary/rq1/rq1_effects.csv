@@ -1,0 +1,152 @@
+spec,estimator,term,coef,se,ci_low,ci_high
+A seen,E1 learner-game FE + item FE,seen,0.02696,0.00191,0.02322,0.03069
+A seen,E1 learner-game FE + item FE,ctrl g<1h,0.00410,0.00273,-0.00126,0.00946
+A seen,E1 learner-game FE + item FE,ctrl g1-24h,0.00106,0.00102,-0.00093,0.00305
+A seen,E1 learner-game FE + item FE,ctrl g1-7d,0.00019,0.00079,-0.00136,0.00173
+A seen,E1 learner-game FE + item FE,ctrl g_never,0.00064,0.00333,-0.00589,0.00718
+A seen,E2 learner-day FE + item FE,seen,0.06955,0.00491,0.05993,0.07917
+A seen,E2 learner-day FE + item FE,ctrl g<1h,0.00470,0.00238,0.00004,0.00937
+A seen,E2 learner-day FE + item FE,ctrl g1-24h,0.00066,0.00087,-0.00105,0.00237
+A seen,E2 learner-day FE + item FE,ctrl g1-7d,0.00006,0.00069,-0.00129,0.00142
+A seen,E2 learner-day FE + item FE,ctrl g_never,-0.00065,0.00320,-0.00693,0.00563
+A seen,E3 learner-game FE + item difficulty,seen,0.02697,0.00195,0.02315,0.03079
+A seen,E3 learner-game FE + item difficulty,ctrl g<1h,0.00468,0.00275,-0.00071,0.01007
+A seen,E3 learner-game FE + item difficulty,ctrl g1-24h,0.00178,0.00102,-0.00021,0.00378
+A seen,E3 learner-game FE + item difficulty,ctrl g1-7d,0.00060,0.00079,-0.00095,0.00215
+A seen,E3 learner-game FE + item difficulty,ctrl g_never,-0.00002,0.00320,-0.00630,0.00625
+A seen,E3 learner-game FE + item difficulty,item_p_loo,0.82650,0.02013,0.78704,0.86595
+B lag,E1 learner-game FE + item FE,lag <1h,0.13931,0.01435,0.11119,0.16743
+B lag,E1 learner-game FE + item FE,lag 1-6h,0.09361,0.00846,0.07702,0.11019
+B lag,E1 learner-game FE + item FE,lag 6-24h,0.08650,0.00695,0.07287,0.10013
+B lag,E1 learner-game FE + item FE,lag 1-3d,0.05608,0.00516,0.04598,0.06618
+B lag,E1 learner-game FE + item FE,lag 3-7d,0.04492,0.00355,0.03796,0.05188
+B lag,E1 learner-game FE + item FE,lag 7-14d,0.03400,0.00284,0.02844,0.03956
+B lag,E1 learner-game FE + item FE,lag 14-30d,0.02658,0.00220,0.02226,0.03090
+B lag,E1 learner-game FE + item FE,lag 30-90d,0.01810,0.00194,0.01430,0.02189
+B lag,E1 learner-game FE + item FE,lag >90d,0.01216,0.00148,0.00926,0.01506
+B lag,E1 learner-game FE + item FE,ctrl g<1h,-0.00463,0.00273,-0.00998,0.00072
+B lag,E1 learner-game FE + item FE,ctrl g1-24h,-0.00095,0.00103,-0.00296,0.00106
+B lag,E1 learner-game FE + item FE,ctrl g1-7d,-0.00048,0.00079,-0.00203,0.00108
+B lag,E1 learner-game FE + item FE,ctrl g_never,0.00052,0.00333,-0.00600,0.00705
+B lag,E2 learner-day FE + item FE,lag <1h,0.16252,0.01126,0.14045,0.18459
+B lag,E2 learner-day FE + item FE,lag 1-6h,0.12788,0.01037,0.10756,0.14821
+B lag,E2 learner-day FE + item FE,lag 6-24h,0.11858,0.00816,0.10258,0.13458
+B lag,E2 learner-day FE + item FE,lag 1-3d,0.10279,0.00851,0.08610,0.11948
+B lag,E2 learner-day FE + item FE,lag 3-7d,0.09413,0.00773,0.07897,0.10928
+B lag,E2 learner-day FE + item FE,lag 7-14d,0.08127,0.00626,0.06901,0.09353
+B lag,E2 learner-day FE + item FE,lag 14-30d,0.07170,0.00643,0.05910,0.08430
+B lag,E2 learner-day FE + item FE,lag 30-90d,0.06480,0.00519,0.05462,0.07499
+B lag,E2 learner-day FE + item FE,lag >90d,0.04788,0.00365,0.04072,0.05503
+B lag,E2 learner-day FE + item FE,ctrl g<1h,-0.00292,0.00242,-0.00768,0.00183
+B lag,E2 learner-day FE + item FE,ctrl g1-24h,-0.00126,0.00090,-0.00302,0.00049
+B lag,E2 learner-day FE + item FE,ctrl g1-7d,-0.00070,0.00070,-0.00207,0.00066
+B lag,E2 learner-day FE + item FE,ctrl g_never,-0.00057,0.00319,-0.00683,0.00569
+B lag,E3 learner-game FE + item difficulty,lag <1h,0.13882,0.01432,0.11077,0.16688
+B lag,E3 learner-game FE + item difficulty,lag 1-6h,0.09514,0.00877,0.07795,0.11232
+B lag,E3 learner-game FE + item difficulty,lag 6-24h,0.08685,0.00686,0.07340,0.10031
+B lag,E3 learner-game FE + item difficulty,lag 1-3d,0.05639,0.00532,0.04596,0.06681
+B lag,E3 learner-game FE + item difficulty,lag 3-7d,0.04485,0.00362,0.03776,0.05194
+B lag,E3 learner-game FE + item difficulty,lag 7-14d,0.03387,0.00286,0.02827,0.03948
+B lag,E3 learner-game FE + item difficulty,lag 14-30d,0.02661,0.00224,0.02221,0.03101
+B lag,E3 learner-game FE + item difficulty,lag 30-90d,0.01802,0.00196,0.01418,0.02186
+B lag,E3 learner-game FE + item difficulty,lag >90d,0.01223,0.00154,0.00921,0.01525
+B lag,E3 learner-game FE + item difficulty,ctrl g<1h,-0.00406,0.00273,-0.00941,0.00129
+B lag,E3 learner-game FE + item difficulty,ctrl g1-24h,-0.00024,0.00103,-0.00226,0.00177
+B lag,E3 learner-game FE + item difficulty,ctrl g1-7d,-0.00005,0.00079,-0.00161,0.00150
+B lag,E3 learner-game FE + item difficulty,ctrl g_never,-0.00018,0.00320,-0.00645,0.00609
+B lag,E3 learner-game FE + item difficulty,item_p_loo,0.82646,0.02013,0.78701,0.86591
+C lag x prev,E1 learner-game FE + item FE,"after correct, lag <1h",0.12376,0.01410,0.09612,0.15140
+C lag x prev,E1 learner-game FE + item FE,"after correct, lag 1-6h",0.10687,0.00923,0.08878,0.12496
+C lag x prev,E1 learner-game FE + item FE,"after correct, lag 6-24h",0.10909,0.00724,0.09490,0.12327
+C lag x prev,E1 learner-game FE + item FE,"after correct, lag 1-3d",0.09094,0.00673,0.07775,0.10414
+C lag x prev,E1 learner-game FE + item FE,"after correct, lag 3-7d",0.08505,0.00558,0.07411,0.09599
+C lag x prev,E1 learner-game FE + item FE,"after correct, lag 7-14d",0.07909,0.00446,0.07034,0.08784
+C lag x prev,E1 learner-game FE + item FE,"after correct, lag 14-30d",0.07117,0.00424,0.06285,0.07949
+C lag x prev,E1 learner-game FE + item FE,"after correct, lag 30-90d",0.06556,0.00368,0.05834,0.07278
+C lag x prev,E1 learner-game FE + item FE,"after correct, lag >90d",0.06212,0.00374,0.05478,0.06945
+C lag x prev,E1 learner-game FE + item FE,"after error, lag <1h",0.19661,0.02206,0.15338,0.23984
+C lag x prev,E1 learner-game FE + item FE,"after error, lag 1-6h",0.08480,0.01810,0.04932,0.12028
+C lag x prev,E1 learner-game FE + item FE,"after error, lag 6-24h",0.04864,0.01325,0.02267,0.07461
+C lag x prev,E1 learner-game FE + item FE,"after error, lag 1-3d",-0.01938,0.01037,-0.03971,0.00095
+C lag x prev,E1 learner-game FE + item FE,"after error, lag 3-7d",-0.05172,0.00827,-0.06792,-0.03552
+C lag x prev,E1 learner-game FE + item FE,"after error, lag 7-14d",-0.07935,0.00767,-0.09438,-0.06432
+C lag x prev,E1 learner-game FE + item FE,"after error, lag 14-30d",-0.08993,0.00929,-0.10814,-0.07171
+C lag x prev,E1 learner-game FE + item FE,"after error, lag 30-90d",-0.10501,0.00928,-0.12319,-0.08683
+C lag x prev,E1 learner-game FE + item FE,"after error, lag >90d",-0.11223,0.00911,-0.13008,-0.09437
+C lag x prev,E1 learner-game FE + item FE,ctrl g<1h,-0.00429,0.00270,-0.00959,0.00101
+C lag x prev,E1 learner-game FE + item FE,ctrl g1-24h,-0.00087,0.00102,-0.00286,0.00113
+C lag x prev,E1 learner-game FE + item FE,ctrl g1-7d,-0.00035,0.00079,-0.00189,0.00119
+C lag x prev,E1 learner-game FE + item FE,ctrl g_never,0.00050,0.00333,-0.00602,0.00702
+C lag x prev,E2 learner-day FE + item FE,"after correct, lag <1h",0.15689,0.01146,0.13444,0.17935
+C lag x prev,E2 learner-day FE + item FE,"after correct, lag 1-6h",0.14887,0.01260,0.12418,0.17355
+C lag x prev,E2 learner-day FE + item FE,"after correct, lag 6-24h",0.15162,0.01031,0.13141,0.17182
+C lag x prev,E2 learner-day FE + item FE,"after correct, lag 1-3d",0.14366,0.01151,0.12109,0.16623
+C lag x prev,E2 learner-day FE + item FE,"after correct, lag 3-7d",0.14016,0.01080,0.11899,0.16132
+C lag x prev,E2 learner-day FE + item FE,"after correct, lag 7-14d",0.12994,0.00902,0.11227,0.14761
+C lag x prev,E2 learner-day FE + item FE,"after correct, lag 14-30d",0.12300,0.00882,0.10572,0.14029
+C lag x prev,E2 learner-day FE + item FE,"after correct, lag 30-90d",0.11890,0.00763,0.10395,0.13385
+C lag x prev,E2 learner-day FE + item FE,"after correct, lag >90d",0.10763,0.00643,0.09502,0.12024
+C lag x prev,E2 learner-day FE + item FE,"after error, lag <1h",0.18966,0.01954,0.15135,0.22796
+C lag x prev,E2 learner-day FE + item FE,"after error, lag 1-6h",0.09135,0.01742,0.05721,0.12548
+C lag x prev,E2 learner-day FE + item FE,"after error, lag 6-24h",0.04148,0.01300,0.01600,0.06697
+C lag x prev,E2 learner-day FE + item FE,"after error, lag 1-3d",-0.00724,0.00959,-0.02603,0.01156
+C lag x prev,E2 learner-day FE + item FE,"after error, lag 3-7d",-0.04003,0.00772,-0.05516,-0.02491
+C lag x prev,E2 learner-day FE + item FE,"after error, lag 7-14d",-0.06454,0.00794,-0.08009,-0.04898
+C lag x prev,E2 learner-day FE + item FE,"after error, lag 14-30d",-0.09015,0.00986,-0.10947,-0.07084
+C lag x prev,E2 learner-day FE + item FE,"after error, lag 30-90d",-0.10194,0.00919,-0.11995,-0.08393
+C lag x prev,E2 learner-day FE + item FE,"after error, lag >90d",-0.11563,0.00849,-0.13227,-0.09899
+C lag x prev,E2 learner-day FE + item FE,ctrl g<1h,-0.00242,0.00239,-0.00711,0.00227
+C lag x prev,E2 learner-day FE + item FE,ctrl g1-24h,-0.00109,0.00089,-0.00282,0.00065
+C lag x prev,E2 learner-day FE + item FE,ctrl g1-7d,-0.00082,0.00071,-0.00220,0.00056
+C lag x prev,E2 learner-day FE + item FE,ctrl g_never,-0.00319,0.00323,-0.00953,0.00314
+C lag x prev,E3 learner-game FE + item difficulty,"after correct, lag <1h",0.12793,0.01389,0.10071,0.15515
+C lag x prev,E3 learner-game FE + item difficulty,"after correct, lag 1-6h",0.11270,0.00946,0.09415,0.13126
+C lag x prev,E3 learner-game FE + item difficulty,"after correct, lag 6-24h",0.11424,0.00714,0.10024,0.12825
+C lag x prev,E3 learner-game FE + item difficulty,"after correct, lag 1-3d",0.09630,0.00696,0.08265,0.10995
+C lag x prev,E3 learner-game FE + item difficulty,"after correct, lag 3-7d",0.08968,0.00564,0.07863,0.10073
+C lag x prev,E3 learner-game FE + item difficulty,"after correct, lag 7-14d",0.08400,0.00447,0.07523,0.09276
+C lag x prev,E3 learner-game FE + item difficulty,"after correct, lag 14-30d",0.07626,0.00440,0.06763,0.08489
+C lag x prev,E3 learner-game FE + item difficulty,"after correct, lag 30-90d",0.07107,0.00376,0.06371,0.07844
+C lag x prev,E3 learner-game FE + item difficulty,"after correct, lag >90d",0.06819,0.00398,0.06038,0.07599
+C lag x prev,E3 learner-game FE + item difficulty,"after error, lag <1h",0.18603,0.02241,0.14210,0.22996
+C lag x prev,E3 learner-game FE + item difficulty,"after error, lag 1-6h",0.07789,0.01855,0.04154,0.11425
+C lag x prev,E3 learner-game FE + item difficulty,"after error, lag 6-24h",0.03806,0.01352,0.01156,0.06457
+C lag x prev,E3 learner-game FE + item difficulty,"after error, lag 1-3d",-0.03067,0.01142,-0.05307,-0.00828
+C lag x prev,E3 learner-game FE + item difficulty,"after error, lag 3-7d",-0.06274,0.00867,-0.07973,-0.04575
+C lag x prev,E3 learner-game FE + item difficulty,"after error, lag 7-14d",-0.09117,0.00834,-0.10751,-0.07482
+C lag x prev,E3 learner-game FE + item difficulty,"after error, lag 14-30d",-0.10240,0.00981,-0.12164,-0.08317
+C lag x prev,E3 learner-game FE + item difficulty,"after error, lag 30-90d",-0.11905,0.00989,-0.13843,-0.09967
+C lag x prev,E3 learner-game FE + item difficulty,"after error, lag >90d",-0.12683,0.00959,-0.14563,-0.10803
+C lag x prev,E3 learner-game FE + item difficulty,ctrl g<1h,-0.00367,0.00270,-0.00896,0.00162
+C lag x prev,E3 learner-game FE + item difficulty,ctrl g1-24h,-0.00018,0.00102,-0.00218,0.00182
+C lag x prev,E3 learner-game FE + item difficulty,ctrl g1-7d,0.00008,0.00079,-0.00147,0.00162
+C lag x prev,E3 learner-game FE + item difficulty,ctrl g_never,-0.00033,0.00320,-0.00660,0.00593
+C lag x prev,E3 learner-game FE + item difficulty,item_p_loo,0.80985,0.02114,0.76841,0.85129
+D games,E1 learner-game FE + item FE,games since 1-2,0.16577,0.01666,0.13311,0.19843
+D games,E1 learner-game FE + item FE,games since 3-10,0.13172,0.00962,0.11286,0.15058
+D games,E1 learner-game FE + item FE,games since 11-50,0.08113,0.00474,0.07184,0.09043
+D games,E1 learner-game FE + item FE,games since 51-200,0.05106,0.00306,0.04507,0.05705
+D games,E1 learner-game FE + item FE,games since >200,0.01811,0.00145,0.01527,0.02095
+D games,E1 learner-game FE + item FE,ctrl g<1h,-0.00407,0.00273,-0.00942,0.00128
+D games,E1 learner-game FE + item FE,ctrl g1-24h,-0.00052,0.00101,-0.00250,0.00147
+D games,E1 learner-game FE + item FE,ctrl g1-7d,-0.00025,0.00079,-0.00180,0.00130
+D games,E1 learner-game FE + item FE,ctrl g_never,0.00058,0.00333,-0.00596,0.00712
+D games,E2 learner-day FE + item FE,games since 1-2,0.17597,0.01334,0.14983,0.20211
+D games,E2 learner-day FE + item FE,games since 3-10,0.15626,0.00819,0.14020,0.17231
+D games,E2 learner-day FE + item FE,games since 11-50,0.11401,0.00464,0.10492,0.12311
+D games,E2 learner-day FE + item FE,games since 51-200,0.09115,0.00429,0.08275,0.09955
+D games,E2 learner-day FE + item FE,games since >200,0.06274,0.00505,0.05284,0.07263
+D games,E2 learner-day FE + item FE,ctrl g<1h,-0.00196,0.00240,-0.00666,0.00275
+D games,E2 learner-day FE + item FE,ctrl g1-24h,-0.00069,0.00087,-0.00240,0.00102
+D games,E2 learner-day FE + item FE,ctrl g1-7d,-0.00030,0.00069,-0.00165,0.00104
+D games,E2 learner-day FE + item FE,ctrl g_never,-0.00051,0.00320,-0.00679,0.00576
+D games,E3 learner-game FE + item difficulty,games since 1-2,0.16523,0.01631,0.13326,0.19720
+D games,E3 learner-game FE + item difficulty,games since 3-10,0.13215,0.00985,0.11285,0.15146
+D games,E3 learner-game FE + item difficulty,games since 11-50,0.08189,0.00479,0.07250,0.09128
+D games,E3 learner-game FE + item difficulty,games since 51-200,0.05112,0.00309,0.04507,0.05717
+D games,E3 learner-game FE + item difficulty,games since >200,0.01806,0.00150,0.01512,0.02100
+D games,E3 learner-game FE + item difficulty,ctrl g<1h,-0.00354,0.00274,-0.00891,0.00184
+D games,E3 learner-game FE + item difficulty,ctrl g1-24h,0.00019,0.00101,-0.00180,0.00218
+D games,E3 learner-game FE + item difficulty,ctrl g1-7d,0.00017,0.00079,-0.00138,0.00172
+D games,E3 learner-game FE + item difficulty,ctrl g_never,-0.00008,0.00320,-0.00636,0.00619
+D games,E3 learner-game FE + item difficulty,item_p_loo,0.82647,0.02013,0.78702,0.86592

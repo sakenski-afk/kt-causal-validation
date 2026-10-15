@@ -1,0 +1,57 @@
+model,subset,n,implied_effect,item_specific_path
+M7 AKT,all,40000,0.00000,True
+M7 AKT,lag <1h,203,0.00003,True
+M7 AKT,lag 1-6h,261,0.00001,True
+M7 AKT,lag 6-24h,630,0.00000,True
+M7 AKT,lag 1-3d,1463,0.00000,True
+M7 AKT,lag 3-7d,2388,0.00000,True
+M7 AKT,lag 7-14d,3206,0.00000,True
+M7 AKT,lag 14-30d,5391,-0.00000,True
+M7 AKT,lag 30-90d,10882,0.00000,True
+M7 AKT,lag >90d,15576,0.00000,True
+M7 AKT,"after correct, lag <1h",147,0.00004,True
+M7 AKT,"after correct, lag 1-6h",192,0.00002,True
+M7 AKT,"after correct, lag 6-24h",493,0.00000,True
+M7 AKT,"after correct, lag 1-3d",1143,0.00000,True
+M7 AKT,"after correct, lag 3-7d",1886,0.00000,True
+M7 AKT,"after correct, lag 7-14d",2608,0.00000,True
+M7 AKT,"after correct, lag 14-30d",4430,0.00000,True
+M7 AKT,"after correct, lag 30-90d",8902,0.00000,True
+M7 AKT,"after correct, lag >90d",12342,0.00000,True
+M7 AKT,"after error, lag <1h",56,0.00002,True
+M7 AKT,"after error, lag 1-6h",69,0.00001,True
+M7 AKT,"after error, lag 6-24h",137,0.00001,True
+M7 AKT,"after error, lag 1-3d",320,0.00001,True
+M7 AKT,"after error, lag 3-7d",502,-0.00000,True
+M7 AKT,"after error, lag 7-14d",598,0.00000,True
+M7 AKT,"after error, lag 14-30d",961,-0.00000,True
+M7 AKT,"after error, lag 30-90d",1980,0.00000,True
+M7 AKT,"after error, lag >90d",3234,0.00000,True
+M7 HawkesKT,all,40000,-0.00000,True
+M7 HawkesKT,lag <1h,203,-0.00027,True
+M7 HawkesKT,lag 1-6h,261,-0.00003,True
+M7 HawkesKT,lag 6-24h,630,-0.00002,True
+M7 HawkesKT,lag 1-3d,1463,-0.00000,True
+M7 HawkesKT,lag 3-7d,2388,0.00000,True
+M7 HawkesKT,lag 7-14d,3206,-0.00000,True
+M7 HawkesKT,lag 14-30d,5391,-0.00000,True
+M7 HawkesKT,lag 30-90d,10882,-0.00000,True
+M7 HawkesKT,lag >90d,15576,-0.00000,True
+M7 HawkesKT,"after correct, lag <1h",147,-0.00048,True
+M7 HawkesKT,"after correct, lag 1-6h",192,-0.00006,True
+M7 HawkesKT,"after correct, lag 6-24h",493,-0.00003,True
+M7 HawkesKT,"after correct, lag 1-3d",1143,-0.00000,True
+M7 HawkesKT,"after correct, lag 3-7d",1886,-0.00000,True
+M7 HawkesKT,"after correct, lag 7-14d",2608,-0.00000,True
+M7 HawkesKT,"after correct, lag 14-30d",4430,-0.00000,True
+M7 HawkesKT,"after correct, lag 30-90d",8902,-0.00000,True
+M7 HawkesKT,"after correct, lag >90d",12342,-0.00000,True
+M7 HawkesKT,"after error, lag <1h",56,0.00026,True
+M7 HawkesKT,"after error, lag 1-6h",69,0.00006,True
+M7 HawkesKT,"after error, lag 6-24h",137,0.00003,True
+M7 HawkesKT,"after error, lag 1-3d",320,0.00000,True
+M7 HawkesKT,"after error, lag 3-7d",502,0.00000,True
+M7 HawkesKT,"after error, lag 7-14d",598,0.00000,True
+M7 HawkesKT,"after error, lag 14-30d",961,0.00000,True
+M7 HawkesKT,"after error, lag 30-90d",1980,0.00000,True
+M7 HawkesKT,"after error, lag >90d",3234,0.00000,True

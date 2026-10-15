@@ -1,0 +1,19 @@
+0
+lag <10m
+lag 10-30m
+lag 30-60m
+lag 1-3h
+lag 3-6h
+lag 6-12h
+lag 12-24h
+lag 1-2d
+lag 2-3d
+lag 3-7d
+lag 7-14d
+lag 14-30d
+lag 30-90d
+lag >90d
+ctrl g<1h
+ctrl g1-24h
+ctrl g1-7d
+ctrl g_never

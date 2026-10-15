@@ -1,0 +1,29 @@
+model,subset,n,implied_effect,item_specific_path
+M6b DAS3H + item windows,all,95459,0.02913,True
+M6b DAS3H + item windows,lag <1h,452,0.12296,True
+M6b DAS3H + item windows,lag 1-6h,610,0.08704,True
+M6b DAS3H + item windows,lag 6-24h,1457,0.08809,True
+M6b DAS3H + item windows,lag 1-3d,3574,0.05147,True
+M6b DAS3H + item windows,lag 3-7d,5662,0.04981,True
+M6b DAS3H + item windows,lag 7-14d,7845,0.03143,True
+M6b DAS3H + item windows,lag 14-30d,12882,0.03589,True
+M6b DAS3H + item windows,lag 30-90d,25897,0.02768,True
+M6b DAS3H + item windows,lag >90d,37080,0.01759,True
+M6b DAS3H + item windows,"after correct, lag <1h",330,0.10071,True
+M6b DAS3H + item windows,"after correct, lag 1-6h",451,0.09462,True
+M6b DAS3H + item windows,"after correct, lag 6-24h",1099,0.09665,True
+M6b DAS3H + item windows,"after correct, lag 1-3d",2784,0.07969,True
+M6b DAS3H + item windows,"after correct, lag 3-7d",4430,0.07740,True
+M6b DAS3H + item windows,"after correct, lag 7-14d",6262,0.06320,True
+M6b DAS3H + item windows,"after correct, lag 14-30d",10621,0.06319,True
+M6b DAS3H + item windows,"after correct, lag 30-90d",21105,0.05892,True
+M6b DAS3H + item windows,"after correct, lag >90d",29408,0.05446,True
+M6b DAS3H + item windows,"after error, lag <1h",122,0.18314,True
+M6b DAS3H + item windows,"after error, lag 1-6h",159,0.06557,True
+M6b DAS3H + item windows,"after error, lag 6-24h",358,0.06181,True
+M6b DAS3H + item windows,"after error, lag 1-3d",790,-0.04800,True
+M6b DAS3H + item windows,"after error, lag 3-7d",1232,-0.04940,True
+M6b DAS3H + item windows,"after error, lag 7-14d",1583,-0.09422,True
+M6b DAS3H + item windows,"after error, lag 14-30d",2261,-0.09233,True
+M6b DAS3H + item windows,"after error, lag 30-90d",4792,-0.10993,True
+M6b DAS3H + item windows,"after error, lag >90d",7672,-0.12376,True

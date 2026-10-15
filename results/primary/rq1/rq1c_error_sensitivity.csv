@@ -1,0 +1,29 @@
+term,coef,se,ci_low,ci_high
+after correct | exp T1 low | <1d,0.21639,0.00809,0.20053,0.23224
+after correct | exp T1 low | 1-7d,0.18481,0.00633,0.17240,0.19722
+after correct | exp T1 low | 7-30d,0.15764,0.00482,0.14820,0.16709
+after correct | exp T1 low | >30d,0.13595,0.00468,0.12677,0.14512
+after correct | exp T2 mid | <1d,0.08954,0.00623,0.07732,0.10176
+after correct | exp T2 mid | 1-7d,0.07624,0.00340,0.06958,0.08290
+after correct | exp T2 mid | 7-30d,0.06531,0.00356,0.05833,0.07229
+after correct | exp T2 mid | >30d,0.04998,0.00381,0.04251,0.05745
+after correct | exp T3 high | <1d,-0.08067,0.00781,-0.09597,-0.06537
+after correct | exp T3 high | 1-7d,-0.08795,0.00694,-0.10156,-0.07434
+after correct | exp T3 high | 7-30d,-0.09129,0.00676,-0.10454,-0.07805
+after correct | exp T3 high | >30d,-0.10440,0.00671,-0.11755,-0.09124
+after error | exp T1 low | <1d,0.15949,0.01690,0.12637,0.19261
+after error | exp T1 low | 1-7d,0.01972,0.01138,-0.00259,0.04203
+after error | exp T1 low | 7-30d,-0.02193,0.01009,-0.04170,-0.00216
+after error | exp T1 low | >30d,-0.05929,0.00891,-0.07676,-0.04182
+after error | exp T2 mid | <1d,0.11274,0.01518,0.08298,0.14250
+after error | exp T2 mid | 1-7d,-0.03140,0.01228,-0.05547,-0.00733
+after error | exp T2 mid | 7-30d,-0.09750,0.00939,-0.11591,-0.07909
+after error | exp T2 mid | >30d,-0.10827,0.00975,-0.12737,-0.08916
+after error | exp T3 high | <1d,-0.02225,0.01467,-0.05100,0.00650
+after error | exp T3 high | 1-7d,-0.09270,0.00829,-0.10895,-0.07644
+after error | exp T3 high | 7-30d,-0.11850,0.00888,-0.13589,-0.10110
+after error | exp T3 high | >30d,-0.13114,0.01026,-0.15125,-0.11104
+ctrl g<1h,-0.00251,0.00266,-0.00771,0.00269
+ctrl g1-24h,-0.00146,0.00102,-0.00345,0.00053
+ctrl g1-7d,-0.00073,0.00079,-0.00228,0.00082
+ctrl g_never,0.00077,0.00334,-0.00577,0.00732
