@@ -10,7 +10,7 @@ The study uses a natural experiment in the logs of a game-based quiz platform, w
 
 ## Data availability
 
-The response data are **not included**. They were provided by the platform operator and include records of minors, so they cannot be shared publicly. The scripts run on a MySQL export of the platform database (gzip CSV files, NULL = `\N`), and access for replication can be requested from the corresponding author with the approval of the data provider.
+The response data are **not included**. They were provided by the platform operator and contain personal information of platform users, so they cannot be shared publicly. The scripts run on a MySQL export of the platform database (gzip CSV files, NULL = `\N`), and access for replication can be requested from the corresponding author with the approval of the data provider.
 
 The `results/` folder contains only aggregated outputs: effect estimates, covariance matrices of estimates, model-implied curves, metrics and bootstrap summaries. No file contains learner, game or item identifiers or individual responses. Record-level intermediate files (parquet, npz) and trained model weights were excluded because they are derived from the personal data.
 
