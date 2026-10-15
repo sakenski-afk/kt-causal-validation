@@ -1,5 +1,7 @@
 # Causal validation of knowledge-tracing models with naturally randomized item exposure
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23392742.svg)](https://doi.org/10.5281/zenodo.23392742)
+
 Code and aggregated results for the article
 
 > Kulatay, A.; Zhaisanova, D.; Kulambayev, B.; Mambetov, S.; Zhaksylyk, A.; Karataeva, Z.; Skakova, A. *Causal Validation of Knowledge-Tracing Models with Naturally Randomized Item Exposure in Game-Based Learning.* Machine Learning and Knowledge Extraction (submitted).
@@ -153,4 +155,4 @@ Code: MIT License (see `LICENSE`). Aggregated results and figures: Creative Comm
 
 ## Citation
 
-If you use this code or the results, please cite the article above and the archived version of this repository (see `CITATION.cff`).
+If you use this code or the results, please cite the article above and the archived version of this repository: https://doi.org/10.5281/zenodo.23392742 (all versions; version 1.0.0: https://doi.org/10.5281/zenodo.23392743). See also `CITATION.cff`.
